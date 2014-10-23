@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Frond Sistemas</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+	<link rel="stylesheet" type="text/css" href="css/base.css"/>
+
+    <style type="text/css">
+      
+      #menu {
+        background-color: #fafafa;
+        padding: 20px;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+		text-align: center;
+        right: calc(100% - 200px);
+      }
+
+      #menu a {
+        background-color: #efefef;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        box-shadow: 1px 1px 1px 0px rgba(0,0,0,.4);
+        color: #444;
+        display: block;
+        margin-bottom: 10px;
+        padding: 6px;
+      }
+
+      #board {
+        
+        border: none;
+        
+        position: fixed;
+        left: 200px;
+        top: 0;
+
+        height: 100%;
+        width: calc(100% - 200px);
+
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <nav id="menu">
+      <h2>Frond Sistemas</h2>
+      <h2>Grupo - 4</h2>
+      <a href="home.html" target="board">Home</a>
+      <a href="metodologia.html" target="board">Metodologia</a>
+      <a href="artefatos.html" target="board">Artefatos</a>
+      <a href="documentos/prototipos.pdf" target="board">Protótipos</a>
+      <a href="diagramas.html" target="board">Diagramas</a>
+	  <a href="equipe.html" target="board">Equipe</a>
+    </nav>
+
+    <iframe id="board" name="board" src="home.html">
+
+  </body>
+
+</html>
