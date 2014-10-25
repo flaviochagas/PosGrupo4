@@ -1,0 +1,96 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="46" y="290" w="136" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="46" y="152" w="46" h="-1" measuredW="43" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>C%F3digo</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="46" y="270" w="136" h="-1" measuredW="91" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%25%20de%20Desconto</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="267" y="270" w="136" h="-1" measuredW="106" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20de%20Cadastro</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="46" y="174" w="136" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="48" y="613" w="100" h="50" measuredW="73" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Gravar</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="167" y="613" w="100" h="50" measuredW="92" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <href>tela_convenio%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C613%2C267%2C663%22%20href%3D%22tela_convenio.bmml%22%20alt%3D%22tela_convenio%22%20id%3D%2228%22/%3E</map>
+        <size>16</size>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="48" y="214" w="149" h="-1" measuredW="60" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descri%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::DateChooser" x="267" y="291" w="136" h="-1" measuredW="90" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::DateChooser" x="476" y="291" w="136" h="-1" measuredW="90" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="476" y="270" w="136" h="-1" measuredW="101" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20de%20Validade</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="48" y="234" w="564" h="-1" measuredW="79" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Frond%20Sistemas%20-%20Controle%20de%20Or%E7amento%20Web%0Ahttp%3A//189.26.123.101%3A8044/</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="383" y="108" w="-1" h="-1" measuredW="259" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cadastro%20de%20Conv%EAnios</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TabBar" x="21" y="120" w="982" h="617" measuredW="203" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>tela_convenio%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C120%2C106%2C147%22%20href%3D%22tela_convenio.bmml%22%20alt%3D%22tela_convenio%22%20id%3D%2246%22/%3E</map>
+        <text>Consulta%2C%20Cadastro</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="14" y="81" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>tela_menu%26bm%3Btela_menu.bmml%26bm%3Btela_menu.bmml%26bm%3Btela_menu.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C81%2C68%2C108%22%20href%3D%22tela_menu.bmml%22%20alt%3D%22tela_menu%22%20id%3D%2247%22/%3E</map>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
