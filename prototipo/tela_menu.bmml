@@ -5,73 +5,30 @@
         <text>Frond%20Sistemas%20-%20Controle%20de%20Or%E7amento%20Web%0Ahttp%3A//189.26.123.101%3A8044/</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="33" y="250" w="200" h="50" measuredW="68" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Menu" x="0" y="96" w="-1" h="-1" measuredW="150" measuredH="207" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>14540253</color>
-        <href>tela_produto%26bm%3Btela_produto.bmml%26bm%3Btela_produto.bmml%26bm%3Btela_produto.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C250%2C233%2C300%22%20href%3D%22tela_produto.bmml%22%20alt%3D%22tela_produto%22%20id%3D%229%22/%3E</map>
-        <text>Produto</text>
+        <hrefs>tela_usuario%26bm%3Btela_usuario.bmml%26bm%3Btela_usuario.bmml%26bm%3Btela_usuario.bmml%2C%2C%2Ctela_vendedor%26bm%3Btela_vendedor.bmml%26bm%3Btela_vendedor.bmml%26bm%3Btela_vendedor.bmml%2C%2C%2Ctela_convenio%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%2C%2C%2Ctela_cliente%26bm%3Btela_cliente.bmml%26bm%3Btela_cliente.bmml%26bm%3Btela_cliente.bmml%2C%2C%2Ctela_produto%26bm%3Btela_produto.bmml%26bm%3Btela_produto.bmml%26bm%3Btela_produto.bmml%2C%2Ctela_grupo%26bm%3Btela_grupo.bmml%26bm%3Btela_grupo.bmml%26bm%3Btela_grupo.bmml%2C%2Ctela_marca%26bm%3Btela_marca.bmml%26bm%3Btela_marca.bmml%26bm%3Btela_marca.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C101%2C150%2C122%22%20href%3D%22tela_usuario.bmml%22%20alt%3D%22tela_usuario%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C132%2C150%2C153%22%20href%3D%22tela_vendedor.bmml%22%20alt%3D%22tela_vendedor%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C163%2C150%2C184%22%20href%3D%22tela_convenio.bmml%22%20alt%3D%22tela_convenio%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C194%2C150%2C215%22%20href%3D%22tela_cliente.bmml%22%20alt%3D%22tela_cliente%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C225%2C150%2C246%22%20href%3D%22tela_produto.bmml%22%20alt%3D%22tela_produto%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C251%2C150%2C272%22%20href%3D%22tela_grupo.bmml%22%20alt%3D%22tela_grupo%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C277%2C150%2C298%22%20href%3D%22tela_marca.bmml%22%20alt%3D%22tela_marca%22%20id%3D%2221%22/%3E</map>
+        <text>Usu%E1rio%0A%20%0A---%0AVendedor%0A%20%0A---%0AConv%EAnio%0A%20%0A---%0ACliente%0A%20%0A---%0AProduto%0A%20%0AGrupo%20de%20Produto%0A%20%0AMarca%20de%20Produto</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="33" y="112" w="200" h="50" measuredW="68" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="73" w="1024" h="29" measuredW="521" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>14540253</color>
-        <href>tela_usuario%26bm%3Btela_usuario.bmml%26bm%3Btela_usuario.bmml%26bm%3Btela_usuario.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C112%2C233%2C162%22%20href%3D%22tela_usuario.bmml%22%20alt%3D%22tela_usuario%22%20id%3D%2210%22/%3E</map>
-        <text>Usu%E1rio</text>
+        <text>Cadastros%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20Or%E7amento%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20%20Relat%F3rios%20%20%20%20%20%20%20%20%20%20%20</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="33" y="182" w="200" h="50" measuredW="78" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Menu" x="193" y="96" w="-1" h="-1" measuredW="150" measuredH="31" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>14540253</color>
-        <href>tela_convenio%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml%26bm%3Btela_convenio.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C182%2C233%2C232%22%20href%3D%22tela_convenio.bmml%22%20alt%3D%22tela_convenio%22%20id%3D%2211%22/%3E</map>
-        <text>Conv%EAnio</text>
+        <hrefs>tela_emitir_orcamento%26bm%3Btela_emitir_orcamento.bmml%26bm%3Btela_emitir_orcamento.bmml%26bm%3Btela_emitir_orcamento.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C101%2C343%2C122%22%20href%3D%22tela_emitir_orcamento.bmml%22%20alt%3D%22tela_emitir_orcamento%22%20id%3D%2223%22/%3E</map>
+        <text>Emitir%20Or%E7amento</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="264" y="73" w="200" h="50" measuredW="96" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Menu" x="387" y="96" w="-1" h="-1" measuredW="150" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>14540253</color>
-        <text>Or%E7amentos</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="33" y="216" w="200" h="50" measuredW="64" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <href>tela_cliente%26bm%3Btela_cliente.bmml%26bm%3Btela_cliente.bmml%26bm%3Btela_cliente.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C216%2C233%2C266%22%20href%3D%22tela_cliente.bmml%22%20alt%3D%22tela_cliente%22%20id%3D%2213%22/%3E</map>
-        <text>Cliente</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="33" y="146" w="200" h="50" measuredW="79" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <href>tela_vendedor%26bm%3Btela_vendedor.bmml%26bm%3Btela_vendedor.bmml%26bm%3Btela_vendedor.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C233%2C196%22%20href%3D%22tela_vendedor.bmml%22%20alt%3D%22tela_vendedor%22%20id%3D%2214%22/%3E</map>
-        <text>Vendedor</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="0" y="73" w="200" h="50" measuredW="97" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <menuIcon>true</menuIcon>
-        <text>Cadastro</text>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="55" y="315" w="200" h="50" measuredW="127" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <href>tela_marca%26bm%3Btela_marca.bmml%26bm%3Btela_marca.bmml%26bm%3Btela_marca.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C315%2C255%2C365%22%20href%3D%22tela_marca.bmml%22%20alt%3D%22tela_marca%22%20id%3D%2216%22/%3E</map>
-        <text>Marca%20de%20Produto</text>
-      </controlProperties>
-    </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="55" y="282" w="200" h="50" measuredW="126" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <href>tela_grupo%26bm%3Btela_grupo.bmml%26bm%3Btela_grupo.bmml%26bm%3Btela_grupo.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C282%2C255%2C332%22%20href%3D%22tela_grupo.bmml%22%20alt%3D%22tela_grupo%22%20id%3D%2217%22/%3E</map>
-        <text>Grupo%20de%20Produto</text>
+        <hrefs>tela_relatorio_cliente_form%26bm%3Btela_relatorio_cliente_form.bmml%26bm%3Btela_relatorio_cliente_form.bmml%26bm%3Btela_relatorio_cliente_form.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22387%2C101%2C537%2C122%22%20href%3D%22tela_relatorio_cliente_form.bmml%22%20alt%3D%22tela_relatorio_cliente_form%22%20id%3D%2224%22/%3E</map>
+        <text>Clientes</text>
       </controlProperties>
     </control>
   </controls>

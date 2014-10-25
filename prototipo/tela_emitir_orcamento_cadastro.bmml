@@ -61,12 +61,12 @@
         <text>N%FAmero%20do%20Or%E7amento</text>
       </controlProperties>
     </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::ComboBox" x="611" y="178" w="377" h="-1" measuredW="38" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::ComboBox" x="502" y="177" w="340" h="-1" measuredW="38" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>...</text>
       </controlProperties>
     </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="608" y="156" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="502" y="156" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Vendedor</text>
       </controlProperties>
@@ -175,26 +175,37 @@
         <text>Total%20Liquido%3A</text>
       </controlProperties>
     </control>
-    <control controlID="97" controlTypeID="com.balsamiq.mockups::ComboBox" x="611" y="228" w="231" h="-1" measuredW="38" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>...</text>
-      </controlProperties>
-    </control>
-    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="612" y="207" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="612" y="207" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Conv%EAnio</text>
       </controlProperties>
     </control>
-    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="849" y="211" w="-1" h="-1" measuredW="91" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="849" y="209" w="-1" h="-1" measuredW="91" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%25%20de%20Desconto</text>
       </controlProperties>
     </control>
-    <control controlID="100" controlTypeID="com.balsamiq.mockups::TextInput" x="852" y="227" w="138" h="-1" measuredW="79" measuredH="26" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::TextInput" x="850" y="227" w="138" h="-1" measuredW="79" measuredH="26" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::TextInput" x="614" y="227" w="226" h="-1" measuredW="79" measuredH="26" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <state>disabled</state>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="852" y="156" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Situa%E7%E3o%20do%20Or%E7amento</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::ComboBox" x="852" y="177" w="136" h="-1" measuredW="74" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledClosed</state>
+        <text>Emitido%0ABloqueado%0ALiberado%0AEnviado%0AAprovado%0AVenda%20Emitida</text>
       </controlProperties>
     </control>
   </controls>

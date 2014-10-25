@@ -112,5 +112,15 @@
         <text>Menu</text>
       </controlProperties>
     </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::ComboBox" x="49" y="473" w="149" h="-1" measuredW="52" measuredH="46" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sim%0AN%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="49" y="452" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Status</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
