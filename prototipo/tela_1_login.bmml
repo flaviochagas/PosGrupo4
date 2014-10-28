@@ -26,8 +26,8 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="502" y="375" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>tela_menu%26bm%3Btela_menu.bmml%26bm%3Btela_menu.bmml%26bm%3Btela_menu.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22502%2C375%2C561%2C402%22%20href%3D%22tela_menu.bmml%22%20alt%3D%22tela_menu%22%20id%3D%226%22/%3E</map>
+        <href>tela_2_menu%26bm%3Btela_2_menu.bmml%26bm%3Btela_2_menu.bmml%26bm%3Btela_2_menu.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22502%2C375%2C561%2C402%22%20href%3D%22tela_2_menu.bmml%22%20alt%3D%22tela_2_menu%22%20id%3D%226%22/%3E</map>
         <text>Entrar</text>
       </controlProperties>
     </control>

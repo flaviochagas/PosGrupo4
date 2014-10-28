@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Frond%20Sistemas%20-%20Controle%20de%20Or%E7amento%20Web%0Ahttp%3A//189.26.123.101%3A8044/</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Button" x="14" y="81" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>tela_2_menu%26bm%3Btela_2_menu.bmml%26bm%3Btela_2_menu.bmml%26bm%3Btela_2_menu.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C81%2C68%2C108%22%20href%3D%22tela_2_menu.bmml%22%20alt%3D%22tela_2_menu%22%20id%3D%2284%22/%3E</map>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::DataGrid" x="52" y="164" w="904" h="258" measuredW="474" measuredH="51" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20do%20Or%E7amento%2C%20C%F3digo%20do%20Or%E7amento%20%2C%20Cliente%2C%20Valor%20R%24%2C%20Situa%E7%E3o%0A01/01/2015%2C%20000001%2C%20cliente%2001%2C%201000.00%2C%20Emitido%0A%7B100L%2C%20100L%2C%20250L%2C%20100L%2C%20100L%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="576" y="422" w="324" h="-1" measuredW="247" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Total%20de%20Or%E7amentos%28s%29%20Registrado%28s%29%3A%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Button" x="68" y="81" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>tela_12_relatorio_orcamento_form%26bm%3Btela_12_relatorio_orcamento_form.bmml%26bm%3Btela_12_relatorio_orcamento_form.bmml%26bm%3Btela_12_relatorio_orcamento_form.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C81%2C125%2C108%22%20href%3D%22tela_12_relatorio_orcamento_form.bmml%22%20alt%3D%22tela_12_relatorio_orcamento_form%22%20id%3D%2287%22/%3E</map>
+        <text>Voltar</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::SubTitle" x="394" y="115" w="-1" h="-1" measuredW="275" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Relat%F3rio%20de%20Or%E7amentos</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
