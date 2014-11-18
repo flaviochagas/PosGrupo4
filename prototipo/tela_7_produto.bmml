@@ -68,10 +68,5 @@
         <text>C%F3digo%20%5E%2C%20Descri%E7%E3o%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%2C%0A%2C%0A%2C%0A%2C%0A%2C%0A%7B65L%2C%20250L%7D</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="913" y="370" w="84" h="50" measuredW="62" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Excluir</text>
-      </controlProperties>
-    </control>
   </controls>
 </mockup>
