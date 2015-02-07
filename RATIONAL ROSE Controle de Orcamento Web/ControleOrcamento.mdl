@@ -2574,7 +2574,7 @@
 					    location   	(784, 880)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	351
+					    max_width  	355
 					    justify    	0
 					    label      	"saCliente")
 					icon       	"Actor"
@@ -2602,7 +2602,7 @@
 					    location   	(1248, 864)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	351
+					    max_width  	355
 					    justify    	0
 					    label      	"saSistemaExterno")
 					icon       	"Actor"
@@ -2630,7 +2630,7 @@
 					    location   	(1008, 384)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	351
+					    max_width  	355
 					    justify    	0
 					    label      	"saAdministrador")
 					icon       	"Actor"
@@ -2658,7 +2658,7 @@
 					    location   	(272, 368)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	351
+					    max_width  	355
 					    justify    	0
 					    label      	"saVendedor")
 					icon       	"Actor"
@@ -2686,7 +2686,7 @@
 					    location   	(272, 880)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	351
+					    max_width  	355
 					    justify    	0
 					    label      	"saSupervisor")
 					icon       	"Actor"
@@ -2785,7 +2785,7 @@
 							    location   	(240, 944)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -2813,7 +2813,7 @@
 							    location   	(1344, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saCliente")
 							icon       	"Actor"
@@ -2841,7 +2841,7 @@
 							    location   	(240, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -2869,7 +2869,7 @@
 							    location   	(832, 1008)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSistemaExterno")
 							icon       	"Actor"
@@ -3160,7 +3160,7 @@
 							    location   	(320, 464)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -3297,7 +3297,7 @@
 							    location   	(352, 992)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3349,7 +3349,7 @@
 							    location   	(352, 416)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -3484,7 +3484,7 @@
 							    location   	(288, 880)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3536,7 +3536,7 @@
 							    location   	(288, 336)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -3695,7 +3695,7 @@
 							    location   	(240, 336)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3844,7 +3844,7 @@
 							    location   	(416, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3993,7 +3993,7 @@
 							    location   	(352, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4118,7 +4118,7 @@
 							    location   	(304, 928)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4170,7 +4170,7 @@
 							    location   	(304, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -4329,7 +4329,7 @@
 							    location   	(400, 432)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -4461,7 +4461,7 @@
 							    location   	(336, 560)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -4610,7 +4610,7 @@
 							    location   	(304, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4735,7 +4735,7 @@
 							    location   	(496, 880)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4787,7 +4787,7 @@
 							    location   	(496, 352)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -4945,7 +4945,7 @@
 							    location   	(336, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	351
+							    max_width  	355
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -5180,7 +5180,7 @@
 				    location   	(2464, 1408)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	351
+				    max_width  	355
 				    justify    	0
 				    label      	"saSupervisor")
 				icon       	"Actor"
@@ -5696,7 +5696,7 @@
 				    location   	(256, 976)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	351
+				    max_width  	355
 				    justify    	0
 				    label      	"saCliente")
 				icon       	"Actor"
@@ -5724,7 +5724,7 @@
 				    location   	(2464, 752)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	351
+				    max_width  	355
 				    justify    	0
 				    label      	"saVendedor")
 				icon       	"Actor"
@@ -6429,7 +6429,7 @@
 				    location   	(256, 496)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	432
+				    max_width  	355
 				    justify    	0
 				    label      	"saSistemaExterno")
 				icon       	"Actor"
@@ -6597,7 +6597,7 @@
 				    location   	(272, 1328)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	386
+				    max_width  	355
 				    justify    	0
 				    label      	"saAdministrador")
 				icon       	"Actor"
@@ -7119,6 +7119,24 @@
 				name       	"TierPackage"
 				value      	"Data Services"))
 			quid       	"54CC22BC00CC"
+			supplier   	"Logical View::Data Services"
+			quidu      	"542FE36502E8")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"Business Services"))
+			quid       	"54D542B3015B"
+			supplier   	"Logical View::Business Services"
+			quidu      	"542FE36502E7")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"Data Services"))
+			quid       	"54D542B3015C"
 			supplier   	"Logical View::Data Services"
 			quidu      	"542FE36502E8"))
 		exportControl 	"Public"
@@ -9036,6 +9054,24 @@
 				value      	"Data Services"))
 			quid       	"54CC22BC00CE"
 			supplier   	"Logical View::Data Services"
+			quidu      	"542FE36502E8")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"User Services"))
+			quid       	"54D542B3015D"
+			supplier   	"Logical View::User Services"
+			quidu      	"542FE36502E6")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"Data Services"))
+			quid       	"54D542B3015E"
+			supplier   	"Logical View::Data Services"
 			quidu      	"542FE36502E8"))
 		exportControl 	"Public"
 		logical_models 	(list unit_reference_list
@@ -9855,6 +9891,24 @@
 				value      	"Data Services"))
 			quid       	"54CC22BC00D0"
 			supplier   	"Logical View::Business Services"
+			quidu      	"542FE36502E7")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"User Services"))
+			quid       	"54D542B3015F"
+			supplier   	"Logical View::User Services"
+			quidu      	"542FE36502E6")
+		    (object Visibility_Relationship
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"VisualBasic"
+				name       	"TierPackage"
+				value      	"Data Services"))
+			quid       	"54D542B30160"
+			supplier   	"Logical View::Business Services"
 			quidu      	"542FE36502E7"))
 		exportControl 	"Public"
 		logical_models 	(list unit_reference_list
@@ -9863,7 +9917,16 @@
 			stereotype 	"layer"
 			exportControl 	"Public"
 			logical_models 	(list unit_reference_list)
-			logical_presentations 	(list unit_reference_list)))
+			logical_presentations 	(list unit_reference_list
+			    (object ClassDiagram "Main"
+				quid       	"54D5499B0130"
+				title      	"Main"
+				zoom       	100
+				max_height 	28350
+				max_width  	21600
+				origin_x   	0
+				origin_y   	0
+				items      	(list diagram_item_list)))))
 		logical_presentations 	(list unit_reference_list))
 	    (object Class_Category "Business Object Model"
 		quid       	"35B678080064"
@@ -12290,7 +12353,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @451
 						    Parent_View 	@450
-						    location   	(874, 413)
+						    location   	(859, 413)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12314,8 +12377,8 @@
 						supplier   	@414
 						Focus_Src  	@415
 						Focus_Entry 	@416
-						origin     	(799, 457)
-						terminus   	(949, 457)
+						origin     	(784, 457)
+						terminus   	(934, 457)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @452
 						location   	(16, 752)
@@ -12410,7 +12473,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @457
 						    Parent_View 	@456
-						    location   	(1545, 922)
+						    location   	(1530, 922)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12434,8 +12497,8 @@
 						supplier   	@429
 						Focus_Src  	@430
 						Focus_Entry 	@431
-						origin     	(1343, 966)
-						terminus   	(1493, 966)
+						origin     	(1328, 966)
+						terminus   	(1478, 966)
 						ordinal    	4)
 					    (object InterMessView "recuperaListaConvenio( )" @458
 						location   	(16, 1124)
@@ -12490,7 +12553,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @461
 						    Parent_View 	@460
-						    location   	(1608, 1185)
+						    location   	(1593, 1185)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12514,8 +12577,8 @@
 						supplier   	@429
 						Focus_Src  	@430
 						Focus_Entry 	@432
-						origin     	(1343, 1229)
-						terminus   	(1493, 1229)
+						origin     	(1328, 1229)
+						terminus   	(1478, 1229)
 						ordinal    	6)
 					    (object InterMessView "btnGravar_click( )" @462
 						location   	(16, 1452)
@@ -12570,7 +12633,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @465
 						    Parent_View 	@464
-						    location   	(1512, 1530)
+						    location   	(1497, 1530)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12594,8 +12657,8 @@
 						supplier   	@429
 						Focus_Src  	@433
 						Focus_Entry 	@434
-						origin     	(1343, 1557)
-						terminus   	(1493, 1557)
+						origin     	(1328, 1557)
+						terminus   	(1478, 1557)
 						ordinal    	8)
 					    (object InterMessView "incluirCliente( )" @466
 						location   	(16, 1708)
@@ -12770,7 +12833,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @475
 						    Parent_View 	@474
-						    location   	(920, 2162)
+						    location   	(905, 2162)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12794,8 +12857,8 @@
 						supplier   	@414
 						Focus_Src  	@418
 						Focus_Entry 	@419
-						origin     	(799, 2206)
-						terminus   	(949, 2206)
+						origin     	(784, 2206)
+						terminus   	(934, 2206)
 						ordinal    	13)
 					    (object InterMessView "btnCancelar_click( )" @476
 						location   	(16, 2380)
@@ -12890,7 +12953,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @481
 						    Parent_View 	@480
-						    location   	(920, 2546)
+						    location   	(905, 2546)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -12914,8 +12977,8 @@
 						supplier   	@414
 						Focus_Src  	@420
 						Focus_Entry 	@421
-						origin     	(799, 2590)
-						terminus   	(949, 2590)
+						origin     	(784, 2590)
+						terminus   	(934, 2590)
 						ordinal    	16)
 					    (object InterMessView "btnBuscar_click( )" @482
 						location   	(16, 2764)
@@ -13010,7 +13073,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @487
 						    Parent_View 	@486
-						    location   	(1047, 2931)
+						    location   	(1032, 2931)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13034,8 +13097,8 @@
 						supplier   	@414
 						Focus_Src  	@422
 						Focus_Entry 	@423
-						origin     	(799, 2974)
-						terminus   	(949, 2974)
+						origin     	(784, 2974)
+						terminus   	(934, 2974)
 						ordinal    	19)
 					    (object InterMessView "btnAlterar_click( )" @488
 						location   	(16, 3536)
@@ -13090,7 +13153,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @491
 						    Parent_View 	@490
-						    location   	(1160, 3566)
+						    location   	(1145, 3566)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13114,8 +13177,8 @@
 						supplier   	@414
 						Focus_Src  	@424
 						Focus_Entry 	@425
-						origin     	(799, 3641)
-						terminus   	(949, 3641)
+						origin     	(784, 3641)
+						terminus   	(934, 3641)
 						ordinal    	21)
 					    (object InterMessView "formCliente( )" @492
 						location   	(16, 3771)
@@ -13130,7 +13193,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @493
 						    Parent_View 	@492
-						    location   	(984, 3729)
+						    location   	(975, 3729)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13154,7 +13217,7 @@
 						supplier   	@429
 						Focus_Src  	@425
 						Focus_Entry 	@437
-						origin     	(798, 3771)
+						origin     	(783, 3771)
 						terminus   	(1296, 3771)
 						ordinal    	22)
 					    (object InterMessView "localizarCliente( )" @494
@@ -13250,7 +13313,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @499
 						    Parent_View 	@498
-						    location   	(1611, 4101)
+						    location   	(1596, 4101)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13274,8 +13337,8 @@
 						supplier   	@429
 						Focus_Src  	@437
 						Focus_Entry 	@438
-						origin     	(1343, 4144)
-						terminus   	(1493, 4144)
+						origin     	(1328, 4144)
+						terminus   	(1478, 4144)
 						ordinal    	25)
 					    (object InterMessView "btnExcluir_click( )" @500
 						location   	(16, 4558)
@@ -13330,7 +13393,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @503
 						    Parent_View 	@502
-						    location   	(1178, 4621)
+						    location   	(1163, 4621)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13354,8 +13417,8 @@
 						supplier   	@414
 						Focus_Src  	@426
 						Focus_Entry 	@427
-						origin     	(799, 4665)
-						terminus   	(949, 4665)
+						origin     	(784, 4665)
+						terminus   	(934, 4665)
 						ordinal    	27)
 					    (object SelfMessView "validaExclusao( )" @504
 						location   	(16, 4798)
@@ -13370,7 +13433,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @505
 						    Parent_View 	@504
-						    location   	(1003, 4755)
+						    location   	(988, 4755)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -13394,8 +13457,8 @@
 						supplier   	@414
 						Focus_Src  	@426
 						Focus_Entry 	@428
-						origin     	(799, 4798)
-						terminus   	(949, 4798)
+						origin     	(784, 4798)
+						terminus   	(934, 4798)
 						ordinal    	28)
 					    (object InterMessView "excluirCliente( )" @506
 						location   	(16, 4974)
@@ -13486,7 +13549,7 @@
 						    location   	(1344, 672)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -13515,7 +13578,7 @@
 						    location   	(431, 1724)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -13546,7 +13609,7 @@
 						    location   	(2191, 1692)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -16513,7 +16576,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @616
 						    Parent_View 	@615
-						    location   	(1034, 621)
+						    location   	(1019, 621)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -16537,8 +16600,8 @@
 						supplier   	@583
 						Focus_Src  	@584
 						Focus_Entry 	@585
-						origin     	(959, 665)
-						terminus   	(1109, 665)
+						origin     	(944, 665)
+						terminus   	(1094, 665)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @617
 						location   	(16, 912)
@@ -16633,7 +16696,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @622
 						    Parent_View 	@621
-						    location   	(1785, 1094)
+						    location   	(1770, 1094)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -16657,8 +16720,8 @@
 						supplier   	@598
 						Focus_Src  	@599
 						Focus_Entry 	@600
-						origin     	(1583, 1122)
-						terminus   	(1733, 1122)
+						origin     	(1568, 1122)
+						terminus   	(1718, 1122)
 						ordinal    	4)
 					    (object InterMessView "btnGravar_click( )" @623
 						location   	(16, 1360)
@@ -16713,7 +16776,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @626
 						    Parent_View 	@625
-						    location   	(1755, 1422)
+						    location   	(1740, 1422)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -16737,8 +16800,8 @@
 						supplier   	@598
 						Focus_Src  	@601
 						Focus_Entry 	@602
-						origin     	(1583, 1465)
-						terminus   	(1733, 1465)
+						origin     	(1568, 1465)
+						terminus   	(1718, 1465)
 						ordinal    	6)
 					    (object InterMessView "incluirConvenio( )" @627
 						location   	(16, 1632)
@@ -16913,7 +16976,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @636
 						    Parent_View 	@635
-						    location   	(1068, 2071)
+						    location   	(1053, 2071)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -16937,8 +17000,8 @@
 						supplier   	@583
 						Focus_Src  	@587
 						Focus_Entry 	@588
-						origin     	(959, 2114)
-						terminus   	(1109, 2114)
+						origin     	(944, 2114)
+						terminus   	(1094, 2114)
 						ordinal    	11)
 					    (object InterMessView "btnCancelar_click( )" @637
 						location   	(16, 2352)
@@ -17033,7 +17096,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @642
 						    Parent_View 	@641
-						    location   	(1080, 2521)
+						    location   	(1065, 2521)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17057,8 +17120,8 @@
 						supplier   	@583
 						Focus_Src  	@589
 						Focus_Entry 	@590
-						origin     	(959, 2565)
-						terminus   	(1109, 2565)
+						origin     	(944, 2565)
+						terminus   	(1094, 2565)
 						ordinal    	14)
 					    (object InterMessView "btnBuscar_click( )" @643
 						location   	(16, 2768)
@@ -17153,7 +17216,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @648
 						    Parent_View 	@647
-						    location   	(1034, 2934)
+						    location   	(1019, 2934)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17177,8 +17240,8 @@
 						supplier   	@583
 						Focus_Src  	@591
 						Focus_Entry 	@592
-						origin     	(959, 2978)
-						terminus   	(1109, 2978)
+						origin     	(944, 2978)
+						terminus   	(1094, 2978)
 						ordinal    	17)
 					    (object InterMessView "btnAlterar_click( )" @649
 						location   	(16, 3568)
@@ -17233,7 +17296,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @652
 						    Parent_View 	@651
-						    location   	(1356, 3629)
+						    location   	(1341, 3629)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17257,8 +17320,8 @@
 						supplier   	@583
 						Focus_Src  	@593
 						Focus_Entry 	@594
-						origin     	(959, 3673)
-						terminus   	(1109, 3673)
+						origin     	(944, 3673)
+						terminus   	(1094, 3673)
 						ordinal    	19)
 					    (object InterMessView "formConvenio( )" @653
 						location   	(16, 3803)
@@ -17273,7 +17336,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @654
 						    Parent_View 	@653
-						    location   	(1247, 3759)
+						    location   	(1239, 3759)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17297,7 +17360,7 @@
 						supplier   	@598
 						Focus_Src  	@594
 						Focus_Entry 	@605
-						origin     	(958, 3803)
+						origin     	(943, 3803)
 						terminus   	(1536, 3803)
 						ordinal    	20)
 					    (object InterMessView "localizaConvenio( )" @655
@@ -17353,7 +17416,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @658
 						    Parent_View 	@657
-						    location   	(1833, 3971)
+						    location   	(1818, 3971)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17377,8 +17440,8 @@
 						supplier   	@598
 						Focus_Src  	@605
 						Focus_Entry 	@606
-						origin     	(1583, 4013)
-						terminus   	(1733, 4013)
+						origin     	(1568, 4013)
+						terminus   	(1718, 4013)
 						ordinal    	22)
 					    (object InterMessView "btnExcluir_click( )" @659
 						location   	(16, 4160)
@@ -17433,7 +17496,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @662
 						    Parent_View 	@661
-						    location   	(1351, 4221)
+						    location   	(1336, 4221)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17457,8 +17520,8 @@
 						supplier   	@583
 						Focus_Src  	@595
 						Focus_Entry 	@596
-						origin     	(959, 4265)
-						terminus   	(1109, 4265)
+						origin     	(944, 4265)
+						terminus   	(1094, 4265)
 						ordinal    	24)
 					    (object SelfMessView "validaExclusao( )" @663
 						location   	(16, 4416)
@@ -17473,7 +17536,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @664
 						    Parent_View 	@663
-						    location   	(1161, 4388)
+						    location   	(1146, 4388)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -17497,8 +17560,8 @@
 						supplier   	@583
 						Focus_Src  	@595
 						Focus_Entry 	@597
-						origin     	(959, 4416)
-						terminus   	(1109, 4416)
+						origin     	(944, 4416)
+						terminus   	(1094, 4416)
 						ordinal    	25)
 					    (object InterMessView "excluirConvenio( )" @665
 						location   	(16, 4592)
@@ -17589,7 +17652,7 @@
 						    location   	(1056, 400)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -17618,7 +17681,7 @@
 						    location   	(1791, 1212)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -17649,7 +17712,7 @@
 						    location   	(319, 1212)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -20453,7 +20516,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @767
 						    Parent_View 	@766
-						    location   	(937, 430)
+						    location   	(922, 430)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -20477,8 +20540,8 @@
 						supplier   	@734
 						Focus_Src  	@735
 						Focus_Entry 	@736
-						origin     	(831, 473)
-						terminus   	(981, 473)
+						origin     	(816, 473)
+						terminus   	(966, 473)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @768
 						location   	(16, 768)
@@ -20573,7 +20636,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @773
 						    Parent_View 	@772
-						    location   	(1643, 937)
+						    location   	(1628, 937)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -20597,8 +20660,8 @@
 						supplier   	@749
 						Focus_Src  	@750
 						Focus_Entry 	@751
-						origin     	(1439, 978)
-						terminus   	(1589, 978)
+						origin     	(1424, 978)
+						terminus   	(1574, 978)
 						ordinal    	4)
 					    (object InterMessView "btnGravar_click( )" @774
 						location   	(16, 1216)
@@ -20653,7 +20716,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @777
 						    Parent_View 	@776
-						    location   	(1609, 1277)
+						    location   	(1594, 1277)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -20677,8 +20740,8 @@
 						supplier   	@749
 						Focus_Src  	@752
 						Focus_Entry 	@753
-						origin     	(1439, 1321)
-						terminus   	(1589, 1321)
+						origin     	(1424, 1321)
+						terminus   	(1574, 1321)
 						ordinal    	6)
 					    (object InterMessView "incluirGrupo( )" @778
 						location   	(16, 1456)
@@ -20853,7 +20916,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @787
 						    Parent_View 	@786
-						    location   	(969, 1927)
+						    location   	(954, 1927)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -20877,8 +20940,8 @@
 						supplier   	@734
 						Focus_Src  	@738
 						Focus_Entry 	@739
-						origin     	(831, 1970)
-						terminus   	(981, 1970)
+						origin     	(816, 1970)
+						terminus   	(966, 1970)
 						ordinal    	11)
 					    (object InterMessView "btnBuscar_click( )" @788
 						location   	(16, 2736)
@@ -20973,7 +21036,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @793
 						    Parent_View 	@792
-						    location   	(1063, 2923)
+						    location   	(1048, 2923)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -20997,8 +21060,8 @@
 						supplier   	@734
 						Focus_Src  	@742
 						Focus_Entry 	@743
-						origin     	(831, 2952)
-						terminus   	(981, 2952)
+						origin     	(816, 2952)
+						terminus   	(966, 2952)
 						ordinal    	17)
 					    (object InterMessView "btnCancelar_click( )" @794
 						location   	(16, 2288)
@@ -21093,7 +21156,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @799
 						    Parent_View 	@798
-						    location   	(956, 2472)
+						    location   	(941, 2472)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21117,8 +21180,8 @@
 						supplier   	@734
 						Focus_Src  	@740
 						Focus_Entry 	@741
-						origin     	(831, 2498)
-						terminus   	(981, 2498)
+						origin     	(816, 2498)
+						terminus   	(966, 2498)
 						ordinal    	14)
 					    (object InterMessView "btnAltarar_click( )" @800
 						location   	(16, 3556)
@@ -21173,7 +21236,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @803
 						    Parent_View 	@802
-						    location   	(1207, 3617)
+						    location   	(1192, 3617)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21197,8 +21260,8 @@
 						supplier   	@734
 						Focus_Src  	@744
 						Focus_Entry 	@745
-						origin     	(831, 3661)
-						terminus   	(981, 3661)
+						origin     	(816, 3661)
+						terminus   	(966, 3661)
 						ordinal    	19)
 					    (object InterMessView "formGrupo( )" @804
 						location   	(16, 3791)
@@ -21213,7 +21276,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @805
 						    Parent_View 	@804
-						    location   	(1111, 3747)
+						    location   	(1103, 3747)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21237,7 +21300,7 @@
 						supplier   	@749
 						Focus_Src  	@745
 						Focus_Entry 	@756
-						origin     	(830, 3791)
+						origin     	(815, 3791)
 						terminus   	(1392, 3791)
 						ordinal    	20)
 					    (object InterMessView "localizaGrupo( )" @806
@@ -21293,7 +21356,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @809
 						    Parent_View 	@808
-						    location   	(1676, 3973)
+						    location   	(1661, 3973)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21317,8 +21380,8 @@
 						supplier   	@749
 						Focus_Src  	@756
 						Focus_Entry 	@757
-						origin     	(1439, 4001)
-						terminus   	(1589, 4001)
+						origin     	(1424, 4001)
+						terminus   	(1574, 4001)
 						ordinal    	22)
 					    (object InterMessView "btnExcluir_click( )" @810
 						location   	(16, 4228)
@@ -21373,7 +21436,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @813
 						    Parent_View 	@812
-						    location   	(1228, 4292)
+						    location   	(1213, 4292)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21397,8 +21460,8 @@
 						supplier   	@734
 						Focus_Src  	@746
 						Focus_Entry 	@747
-						origin     	(831, 4335)
-						terminus   	(981, 4335)
+						origin     	(816, 4335)
+						terminus   	(966, 4335)
 						ordinal    	24)
 					    (object SelfMessView "validaExclusao( )" @814
 						location   	(16, 4486)
@@ -21413,7 +21476,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @815
 						    Parent_View 	@814
-						    location   	(1048, 4442)
+						    location   	(1033, 4442)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -21437,8 +21500,8 @@
 						supplier   	@734
 						Focus_Src  	@746
 						Focus_Entry 	@748
-						origin     	(831, 4486)
-						terminus   	(981, 4486)
+						origin     	(816, 4486)
+						terminus   	(966, 4486)
 						ordinal    	25)
 					    (object InterMessView "excluirGrupo( )" @816
 						location   	(16, 4678)
@@ -21529,7 +21592,7 @@
 						    location   	(928, 336)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	355
+						    max_width  	358
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -21558,7 +21621,7 @@
 						    location   	(1727, 1420)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	697
+						    max_width  	701
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -21589,7 +21652,7 @@
 						    location   	(223, 1436)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	697
+						    max_width  	701
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -24631,7 +24694,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @918
 						    Parent_View 	@917
-						    location   	(970, 626)
+						    location   	(955, 626)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -24655,8 +24718,8 @@
 						supplier   	@885
 						Focus_Src  	@886
 						Focus_Entry 	@887
-						origin     	(895, 670)
-						terminus   	(1045, 670)
+						origin     	(880, 670)
+						terminus   	(1030, 670)
 						ordinal    	1)
 					    (object InterMessView "btnBuscar_click( )" @919
 						location   	(16, 2800)
@@ -24751,7 +24814,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @924
 						    Parent_View 	@923
-						    location   	(1121, 2992)
+						    location   	(1106, 2992)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -24775,8 +24838,8 @@
 						supplier   	@885
 						Focus_Src  	@893
 						Focus_Entry 	@894
-						origin     	(895, 3013)
-						terminus   	(1045, 3013)
+						origin     	(880, 3013)
+						terminus   	(1030, 3013)
 						ordinal    	17)
 					    (object InterMessView "btnNovo_click( )" @925
 						location   	(16, 928)
@@ -24871,7 +24934,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @930
 						    Parent_View 	@929
-						    location   	(1674, 1123)
+						    location   	(1659, 1123)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -24895,8 +24958,8 @@
 						supplier   	@900
 						Focus_Src  	@901
 						Focus_Entry 	@902
-						origin     	(1439, 1150)
-						terminus   	(1589, 1150)
+						origin     	(1424, 1150)
+						terminus   	(1574, 1150)
 						ordinal    	4)
 					    (object InterMessView "btnGravar_click( )" @931
 						location   	(16, 1440)
@@ -25111,7 +25174,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @942
 						    Parent_View 	@941
-						    location   	(1082, 4489)
+						    location   	(1067, 4489)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25135,8 +25198,8 @@
 						supplier   	@885
 						Focus_Src  	@897
 						Focus_Entry 	@899
-						origin     	(895, 4517)
-						terminus   	(1045, 4517)
+						origin     	(880, 4517)
+						terminus   	(1030, 4517)
 						ordinal    	25)
 					    (object InterMessView "excluirMarca( )" @943
 						location   	(16, 4674)
@@ -25231,7 +25294,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @948
 						    Parent_View 	@947
-						    location   	(1031, 2120)
+						    location   	(1016, 2120)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25255,8 +25318,8 @@
 						supplier   	@885
 						Focus_Src  	@889
 						Focus_Entry 	@890
-						origin     	(895, 2162)
-						terminus   	(1045, 2162)
+						origin     	(880, 2162)
+						terminus   	(1030, 2162)
 						ordinal    	11)
 					    (object InterMessView "btnCancelar_click( )" @949
 						location   	(16, 2368)
@@ -25351,7 +25414,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @954
 						    Parent_View 	@953
-						    location   	(1034, 2535)
+						    location   	(1019, 2535)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25375,8 +25438,8 @@
 						supplier   	@885
 						Focus_Src  	@891
 						Focus_Entry 	@892
-						origin     	(895, 2578)
-						terminus   	(1045, 2578)
+						origin     	(880, 2578)
+						terminus   	(1030, 2578)
 						ordinal    	14)
 					    (object InterMessView "btnAlterar_click( )" @955
 						location   	(16, 3616)
@@ -25431,7 +25494,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @958
 						    Parent_View 	@957
-						    location   	(1267, 3683)
+						    location   	(1252, 3683)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25455,8 +25518,8 @@
 						supplier   	@885
 						Focus_Src  	@895
 						Focus_Entry 	@896
-						origin     	(895, 3722)
-						terminus   	(1045, 3722)
+						origin     	(880, 3722)
+						terminus   	(1030, 3722)
 						ordinal    	19)
 					    (object InterMessView "formMarca( )" @959
 						location   	(16, 3857)
@@ -25471,7 +25534,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @960
 						    Parent_View 	@959
-						    location   	(1065, 3828)
+						    location   	(1055, 3828)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25495,7 +25558,7 @@
 						supplier   	@900
 						Focus_Src  	@896
 						Focus_Entry 	@907
-						origin     	(894, 3857)
+						origin     	(879, 3857)
 						terminus   	(1392, 3857)
 						ordinal    	20)
 					    (object InterMessView "localizaMarca( )" @961
@@ -25551,7 +25614,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @964
 						    Parent_View 	@963
-						    location   	(1671, 4024)
+						    location   	(1656, 4024)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25575,8 +25638,8 @@
 						supplier   	@900
 						Focus_Src  	@907
 						Focus_Entry 	@908
-						origin     	(1439, 4067)
-						terminus   	(1589, 4067)
+						origin     	(1424, 4067)
+						terminus   	(1574, 4067)
 						ordinal    	22)
 					    (object SelfMessView "validaMarcaSelecionadaGrid_busca( )" @965
 						location   	(16, 4322)
@@ -25591,7 +25654,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @966
 						    Parent_View 	@965
-						    location   	(1258, 4285)
+						    location   	(1243, 4285)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25615,8 +25678,8 @@
 						supplier   	@885
 						Focus_Src  	@897
 						Focus_Entry 	@898
-						origin     	(895, 4322)
-						terminus   	(1045, 4322)
+						origin     	(880, 4322)
+						terminus   	(1030, 4322)
 						ordinal    	24)
 					    (object SelfMessView "validaCampo( )" @967
 						location   	(16, 1545)
@@ -25631,7 +25694,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @968
 						    Parent_View 	@967
-						    location   	(1611, 1505)
+						    location   	(1596, 1505)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -25655,8 +25718,8 @@
 						supplier   	@900
 						Focus_Src  	@903
 						Focus_Entry 	@904
-						origin     	(1439, 1545)
-						terminus   	(1589, 1545)
+						origin     	(1424, 1545)
+						terminus   	(1574, 1545)
 						ordinal    	6)
 					    (object NoteView @969
 						location   	(176, 448)
@@ -25707,7 +25770,7 @@
 						    location   	(1008, 368)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -25736,7 +25799,7 @@
 						    location   	(1583, 1420)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -25767,7 +25830,7 @@
 						    location   	(287, 1404)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -26093,13 +26156,13 @@
 						supplier   	@971
 						vertices   	(list Points
 						    (1065, 192)
-						    (1583, 192)
-						    (1583, 1188))
+						    (1580, 192)
+						    (1580, 1188))
 						line_style 	3
 						origin_attachment 	(1065, 192)
-						terminal_attachment 	(1583, 1188))
+						terminal_attachment 	(1580, 1188))
 					    (object MessView "" @989
-						location   	(1628, 430)
+						location   	(1625, 433)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26112,7 +26175,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @990
 						    Parent_View 	@989
-						    location   	(1342, 346)
+						    location   	(1339, 349)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26133,7 +26196,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @991
 						    Parent_View 	@989
-						    location   	(1342, 389)
+						    location   	(1339, 392)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26154,7 +26217,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @992
 						    Parent_View 	@989
-						    location   	(1342, 432)
+						    location   	(1339, 435)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26175,7 +26238,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @993
 						    Parent_View 	@989
-						    location   	(1342, 475)
+						    location   	(1339, 478)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26196,7 +26259,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @994
 						    Parent_View 	@989
-						    location   	(1342, 518)
+						    location   	(1339, 521)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26220,8 +26283,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1628, 370)
-						terminus   	(1628, 490))
+						origin     	(1625, 373)
+						terminus   	(1625, 493))
 					    (object LinkView "" @995
 						stereotype 	TRUE
 						line_color 	3342489
@@ -26458,14 +26521,14 @@
 						client     	@971
 						supplier   	@973
 						vertices   	(list Points
-						    (1577, 1338)
-						    (1577, 1714)
+						    (1575, 1338)
+						    (1575, 1714)
 						    (1066, 1714))
 						line_style 	3
-						origin_attachment 	(1577, 1338)
+						origin_attachment 	(1575, 1338)
 						terminal_attachment 	(1066, 1714))
 					    (object MessView "" @1008
-						location   	(1510, 1759)
+						location   	(1509, 1759)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26478,7 +26541,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1009
 						    Parent_View 	@1008
-						    location   	(1510, 1804)
+						    location   	(1509, 1804)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26499,7 +26562,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1010
 						    Parent_View 	@1008
-						    location   	(1510, 1847)
+						    location   	(1509, 1847)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26523,8 +26586,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1569, 1759)
-						terminus   	(1451, 1759))
+						origin     	(1568, 1759)
+						terminus   	(1450, 1759))
 					    (object LinkView "" @1011
 						stereotype 	TRUE
 						line_color 	3342489
@@ -26532,14 +26595,14 @@
 						client     	@972
 						supplier   	@973
 						vertices   	(list Points
-						    (278, 1322)
-						    (278, 1728)
+						    (276, 1322)
+						    (276, 1728)
 						    (886, 1728))
 						line_style 	3
-						origin_attachment 	(278, 1322)
+						origin_attachment 	(276, 1322)
 						terminal_attachment 	(886, 1728))
 					    (object MessView "" @1012
-						location   	(379, 1684)
+						location   	(377, 1684)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26552,7 +26615,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1013
 						    Parent_View 	@1012
-						    location   	(528, 1553)
+						    location   	(526, 1553)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26573,7 +26636,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1014
 						    Parent_View 	@1012
-						    location   	(528, 1596)
+						    location   	(526, 1596)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26594,7 +26657,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1015
 						    Parent_View 	@1012
-						    location   	(528, 1639)
+						    location   	(526, 1639)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26618,8 +26681,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(319, 1684)
-						terminus   	(439, 1684))))))
+						origin     	(317, 1684)
+						terminus   	(437, 1684))))))
 			    (object Class_Category "sucControlarUsuario"
 				quid       	"54396EF7000E"
 				exportControl 	"Public"
@@ -28876,7 +28939,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1081
 						    Parent_View 	@1080
-						    location   	(1052, 462)
+						    location   	(1037, 462)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -28900,8 +28963,8 @@
 						supplier   	@1049
 						Focus_Src  	@1050
 						Focus_Entry 	@1051
-						origin     	(943, 505)
-						terminus   	(1093, 505)
+						origin     	(928, 505)
+						terminus   	(1078, 505)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @1082
 						location   	(16, 736)
@@ -28996,7 +29059,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1087
 						    Parent_View 	@1086
-						    location   	(1609, 904)
+						    location   	(1594, 904)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29020,8 +29083,8 @@
 						supplier   	@1064
 						Focus_Src  	@1065
 						Focus_Entry 	@1066
-						origin     	(1407, 946)
-						terminus   	(1557, 946)
+						origin     	(1392, 946)
+						terminus   	(1542, 946)
 						ordinal    	4)
 					    (object InterMessView "btnGravar_click( )" @1088
 						location   	(16, 1200)
@@ -29076,7 +29139,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1091
 						    Parent_View 	@1090
-						    location   	(1579, 1261)
+						    location   	(1564, 1261)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29100,8 +29163,8 @@
 						supplier   	@1064
 						Focus_Src  	@1067
 						Focus_Entry 	@1068
-						origin     	(1407, 1305)
-						terminus   	(1557, 1305)
+						origin     	(1392, 1305)
+						terminus   	(1542, 1305)
 						ordinal    	6)
 					    (object InterMessView "incluirUsuario( )" @1092
 						location   	(16, 1435)
@@ -29276,7 +29339,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1101
 						    Parent_View 	@1100
-						    location   	(1064, 1895)
+						    location   	(1049, 1895)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29300,8 +29363,8 @@
 						supplier   	@1049
 						Focus_Src  	@1053
 						Focus_Entry 	@1054
-						origin     	(943, 1938)
-						terminus   	(1093, 1938)
+						origin     	(928, 1938)
+						terminus   	(1078, 1938)
 						ordinal    	11)
 					    (object InterMessView "btnCancelar_click( )" @1102
 						location   	(16, 2112)
@@ -29396,7 +29459,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1107
 						    Parent_View 	@1106
-						    location   	(1067, 2279)
+						    location   	(1052, 2279)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29420,8 +29483,8 @@
 						supplier   	@1049
 						Focus_Src  	@1055
 						Focus_Entry 	@1056
-						origin     	(943, 2322)
-						terminus   	(1093, 2322)
+						origin     	(928, 2322)
+						terminus   	(1078, 2322)
 						ordinal    	14)
 					    (object InterMessView "btnBuscar_click( )" @1108
 						location   	(16, 2496)
@@ -29516,7 +29579,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1113
 						    Parent_View 	@1112
-						    location   	(1187, 2655)
+						    location   	(1172, 2655)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29540,8 +29603,8 @@
 						supplier   	@1049
 						Focus_Src  	@1057
 						Focus_Entry 	@1058
-						origin     	(943, 2706)
-						terminus   	(1093, 2706)
+						origin     	(928, 2706)
+						terminus   	(1078, 2706)
 						ordinal    	17)
 					    (object InterMessView "btnAlterar_click( )" @1114
 						location   	(16, 3424)
@@ -29596,7 +29659,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1117
 						    Parent_View 	@1116
-						    location   	(1325, 3492)
+						    location   	(1310, 3492)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29620,8 +29683,8 @@
 						supplier   	@1049
 						Focus_Src  	@1059
 						Focus_Entry 	@1060
-						origin     	(943, 3535)
-						terminus   	(1093, 3535)
+						origin     	(928, 3535)
+						terminus   	(1078, 3535)
 						ordinal    	19)
 					    (object InterMessView "formUsuario( )" @1118
 						location   	(16, 3665)
@@ -29636,7 +29699,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1119
 						    Parent_View 	@1118
-						    location   	(1151, 3621)
+						    location   	(1143, 3621)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29660,7 +29723,7 @@
 						supplier   	@1064
 						Focus_Src  	@1060
 						Focus_Entry 	@1071
-						origin     	(942, 3665)
+						origin     	(927, 3665)
 						terminus   	(1360, 3665)
 						ordinal    	20)
 					    (object InterMessView "localizarUsuario( )" @1120
@@ -29756,7 +29819,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1125
 						    Parent_View 	@1124
-						    location   	(1319, 4140)
+						    location   	(1304, 4140)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29780,8 +29843,8 @@
 						supplier   	@1049
 						Focus_Src  	@1061
 						Focus_Entry 	@1062
-						origin     	(943, 4183)
-						terminus   	(1093, 4183)
+						origin     	(928, 4183)
+						terminus   	(1078, 4183)
 						ordinal    	23)
 					    (object SelfMessView "validaExclusao( )" @1126
 						location   	(16, 4366)
@@ -29796,7 +29859,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1127
 						    Parent_View 	@1126
-						    location   	(1145, 4322)
+						    location   	(1130, 4322)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -29820,8 +29883,8 @@
 						supplier   	@1049
 						Focus_Src  	@1061
 						Focus_Entry 	@1063
-						origin     	(943, 4366)
-						terminus   	(1093, 4366)
+						origin     	(928, 4366)
+						terminus   	(1078, 4366)
 						ordinal    	24)
 					    (object InterMessView "excluirUsuario( )" @1128
 						location   	(16, 4558)
@@ -29912,7 +29975,7 @@
 						    location   	(992, 320)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -29941,7 +30004,7 @@
 						    location   	(1679, 1372)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -29972,7 +30035,7 @@
 						    location   	(319, 1372)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -30277,14 +30340,14 @@
 						client     	@1131
 						supplier   	@1132
 						vertices   	(list Points
-						    (1049, 149)
-						    (1660, 149)
+						    (1049, 146)
+						    (1660, 146)
 						    (1660, 1140))
 						line_style 	3
-						origin_attachment 	(1049, 149)
+						origin_attachment 	(1049, 146)
 						terminal_attachment 	(1660, 1140))
 					    (object MessView "" @1149
-						location   	(1705, 339)
+						location   	(1705, 338)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -30297,7 +30360,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1150
 						    Parent_View 	@1149
-						    location   	(1441, 276)
+						    location   	(1441, 275)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30318,7 +30381,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1151
 						    Parent_View 	@1149
-						    location   	(1441, 319)
+						    location   	(1441, 318)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30339,7 +30402,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1152
 						    Parent_View 	@1149
-						    location   	(1441, 362)
+						    location   	(1441, 361)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30360,7 +30423,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1153
 						    Parent_View 	@1149
-						    location   	(1441, 405)
+						    location   	(1441, 404)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30381,7 +30444,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1154
 						    Parent_View 	@1149
-						    location   	(1441, 448)
+						    location   	(1441, 447)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30405,8 +30468,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1705, 279)
-						terminus   	(1705, 399))
+						origin     	(1705, 278)
+						terminus   	(1705, 398))
 					    (object LinkView "" @1155
 						stereotype 	TRUE
 						line_color 	3342489
@@ -30415,13 +30478,13 @@
 						supplier   	@1133
 						vertices   	(list Points
 						    (933, 160)
-						    (276, 160)
-						    (276, 1139))
+						    (279, 160)
+						    (279, 1139))
 						line_style 	3
 						origin_attachment 	(933, 160)
-						terminal_attachment 	(276, 1139))
+						terminal_attachment 	(279, 1139))
 					    (object MessView "" @1156
-						location   	(321, 320)
+						location   	(324, 323)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -30434,7 +30497,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1157
 						    Parent_View 	@1156
-						    location   	(534, 384)
+						    location   	(537, 387)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30455,7 +30518,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1158
 						    Parent_View 	@1156
-						    location   	(534, 427)
+						    location   	(537, 430)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30476,7 +30539,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1159
 						    Parent_View 	@1156
-						    location   	(534, 470)
+						    location   	(537, 473)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30500,8 +30563,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(321, 260)
-						terminus   	(321, 380))
+						origin     	(324, 263)
+						terminus   	(324, 383))
 					    (object LinkView "" @1160
 						stereotype 	TRUE
 						line_color 	3342489
@@ -30717,11 +30780,11 @@
 						client     	@1133
 						supplier   	@1134
 						vertices   	(list Points
-						    (313, 1290)
-						    (313, 1900)
+						    (311, 1290)
+						    (311, 1900)
 						    (940, 1900))
 						line_style 	3
-						origin_attachment 	(313, 1290)
+						origin_attachment 	(311, 1290)
 						terminal_attachment 	(940, 1900))
 					    (object MessView "" @1172
 						location   	(321, 1856)
@@ -32752,7 +32815,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1228
 						    Parent_View 	@1227
-						    location   	(1036, 717)
+						    location   	(1021, 717)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -32776,8 +32839,8 @@
 						supplier   	@1196
 						Focus_Src  	@1197
 						Focus_Entry 	@1198
-						origin     	(927, 760)
-						terminus   	(1077, 760)
+						origin     	(912, 760)
+						terminus   	(1062, 760)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @1229
 						location   	(16, 927)
@@ -32872,7 +32935,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1234
 						    Parent_View 	@1233
-						    location   	(1609, 1102)
+						    location   	(1594, 1102)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -32896,8 +32959,8 @@
 						supplier   	@1211
 						Focus_Src  	@1212
 						Focus_Entry 	@1213
-						origin     	(1407, 1144)
-						terminus   	(1557, 1144)
+						origin     	(1392, 1144)
+						terminus   	(1542, 1144)
 						ordinal    	4)
 					    (object InterMessView "btnGravar_click( )" @1235
 						location   	(16, 1455)
@@ -32952,7 +33015,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1238
 						    Parent_View 	@1237
-						    location   	(1579, 1516)
+						    location   	(1564, 1516)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -32976,8 +33039,8 @@
 						supplier   	@1211
 						Focus_Src  	@1214
 						Focus_Entry 	@1215
-						origin     	(1407, 1560)
-						terminus   	(1557, 1560)
+						origin     	(1392, 1560)
+						terminus   	(1542, 1560)
 						ordinal    	6)
 					    (object InterMessView "incluirVendedor( )" @1239
 						location   	(16, 1690)
@@ -33152,7 +33215,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1248
 						    Parent_View 	@1247
-						    location   	(1048, 2150)
+						    location   	(1033, 2150)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33176,8 +33239,8 @@
 						supplier   	@1196
 						Focus_Src  	@1200
 						Focus_Entry 	@1201
-						origin     	(927, 2193)
-						terminus   	(1077, 2193)
+						origin     	(912, 2193)
+						terminus   	(1062, 2193)
 						ordinal    	11)
 					    (object InterMessView "btnCancelar_click( )" @1249
 						location   	(16, 2383)
@@ -33272,7 +33335,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1254
 						    Parent_View 	@1253
-						    location   	(1051, 2550)
+						    location   	(1036, 2550)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33296,8 +33359,8 @@
 						supplier   	@1196
 						Focus_Src  	@1202
 						Focus_Entry 	@1203
-						origin     	(927, 2593)
-						terminus   	(1077, 2593)
+						origin     	(912, 2593)
+						terminus   	(1062, 2593)
 						ordinal    	14)
 					    (object InterMessView "btnBuscar_click( )" @1255
 						location   	(16, 2751)
@@ -33392,7 +33455,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1260
 						    Parent_View 	@1259
-						    location   	(1171, 2910)
+						    location   	(1156, 2910)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33416,8 +33479,8 @@
 						supplier   	@1196
 						Focus_Src  	@1204
 						Focus_Entry 	@1205
-						origin     	(927, 2961)
-						terminus   	(1077, 2961)
+						origin     	(912, 2961)
+						terminus   	(1062, 2961)
 						ordinal    	17)
 					    (object InterMessView "btnAltarar_click( )" @1261
 						location   	(16, 3743)
@@ -33472,7 +33535,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1264
 						    Parent_View 	@1263
-						    location   	(1324, 3817)
+						    location   	(1309, 3817)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33496,8 +33559,8 @@
 						supplier   	@1196
 						Focus_Src  	@1206
 						Focus_Entry 	@1207
-						origin     	(927, 3857)
-						terminus   	(1077, 3857)
+						origin     	(912, 3857)
+						terminus   	(1062, 3857)
 						ordinal    	19)
 					    (object InterMessView "formVendedor( )" @1265
 						location   	(16, 4092)
@@ -33512,7 +33575,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1266
 						    Parent_View 	@1265
-						    location   	(1143, 4048)
+						    location   	(1135, 4048)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33536,7 +33599,7 @@
 						supplier   	@1211
 						Focus_Src  	@1207
 						Focus_Entry 	@1218
-						origin     	(926, 4092)
+						origin     	(911, 4092)
 						terminus   	(1360, 4092)
 						ordinal    	20)
 					    (object InterMessView "localizarVendedor( )" @1267
@@ -33632,7 +33695,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1272
 						    Parent_View 	@1271
-						    location   	(1318, 4602)
+						    location   	(1303, 4602)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33656,8 +33719,8 @@
 						supplier   	@1196
 						Focus_Src  	@1208
 						Focus_Entry 	@1209
-						origin     	(927, 4645)
-						terminus   	(1077, 4645)
+						origin     	(912, 4645)
+						terminus   	(1062, 4645)
 						ordinal    	23)
 					    (object SelfMessView "validaExcluisao( )" @1273
 						location   	(16, 4880)
@@ -33672,7 +33735,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1274
 						    Parent_View 	@1273
-						    location   	(1129, 4836)
+						    location   	(1114, 4836)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -33696,8 +33759,8 @@
 						supplier   	@1196
 						Focus_Src  	@1208
 						Focus_Entry 	@1210
-						origin     	(927, 4880)
-						terminus   	(1077, 4880)
+						origin     	(912, 4880)
+						terminus   	(1062, 4880)
 						ordinal    	24)
 					    (object InterMessView "excluirVendedor( )" @1275
 						location   	(16, 5072)
@@ -33788,7 +33851,7 @@
 						    location   	(976, 256)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -33817,7 +33880,7 @@
 						    location   	(1599, 1324)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -33848,7 +33911,7 @@
 						    location   	(414, 1321)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -34154,13 +34217,13 @@
 						supplier   	@1279
 						vertices   	(list Points
 						    (1033, 96)
-						    (1547, 96)
-						    (1547, 1092))
+						    (1552, 96)
+						    (1552, 1092))
 						line_style 	3
 						origin_attachment 	(1033, 96)
-						terminal_attachment 	(1547, 1092))
+						terminal_attachment 	(1552, 1092))
 					    (object MessView "" @1296
-						location   	(1592, 337)
+						location   	(1597, 334)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34173,7 +34236,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1297
 						    Parent_View 	@1296
-						    location   	(1325, 190)
+						    location   	(1330, 187)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34194,7 +34257,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1298
 						    Parent_View 	@1296
-						    location   	(1325, 233)
+						    location   	(1330, 230)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34215,7 +34278,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1299
 						    Parent_View 	@1296
-						    location   	(1325, 276)
+						    location   	(1330, 273)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34236,7 +34299,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1300
 						    Parent_View 	@1296
-						    location   	(1325, 319)
+						    location   	(1330, 316)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34257,7 +34320,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1301
 						    Parent_View 	@1296
-						    location   	(1325, 362)
+						    location   	(1330, 359)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34281,8 +34344,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1592, 277)
-						terminus   	(1592, 397))
+						origin     	(1597, 274)
+						terminus   	(1597, 394))
 					    (object LinkView "" @1302
 						stereotype 	TRUE
 						line_color 	3342489
@@ -34291,13 +34354,13 @@
 						supplier   	@1280
 						vertices   	(list Points
 						    (917, 96)
-						    (376, 96)
-						    (376, 1089))
+						    (379, 96)
+						    (379, 1089))
 						line_style 	3
 						origin_attachment 	(917, 96)
-						terminal_attachment 	(376, 1089))
+						terminal_attachment 	(379, 1089))
 					    (object MessView "" @1303
-						location   	(421, 322)
+						location   	(424, 324)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34310,7 +34373,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1304
 						    Parent_View 	@1303
-						    location   	(663, 386)
+						    location   	(666, 388)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34331,7 +34394,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1305
 						    Parent_View 	@1303
-						    location   	(663, 429)
+						    location   	(666, 431)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34352,7 +34415,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1306
 						    Parent_View 	@1303
-						    location   	(663, 472)
+						    location   	(666, 474)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34376,8 +34439,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(421, 262)
-						terminus   	(421, 382))
+						origin     	(424, 264)
+						terminus   	(424, 384))
 					    (object LinkView "" @1307
 						stereotype 	TRUE
 						line_color 	3342489
@@ -34519,14 +34582,14 @@
 						client     	@1279
 						supplier   	@1281
 						vertices   	(list Points
-						    (1591, 1242)
-						    (1591, 1635)
+						    (1589, 1242)
+						    (1589, 1635)
 						    (1149, 1635))
 						line_style 	3
-						origin_attachment 	(1591, 1242)
+						origin_attachment 	(1589, 1242)
 						terminal_attachment 	(1149, 1635))
 					    (object MessView "" @1315
-						location   	(1566, 1680)
+						location   	(1565, 1680)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34539,7 +34602,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1316
 						    Parent_View 	@1315
-						    location   	(1472, 1704)
+						    location   	(1471, 1704)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34560,7 +34623,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1317
 						    Parent_View 	@1315
-						    location   	(1472, 1747)
+						    location   	(1471, 1747)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34584,8 +34647,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1625, 1680)
-						terminus   	(1507, 1680))
+						origin     	(1624, 1680)
+						terminus   	(1506, 1680))
 					    (object LinkView "" @1318
 						stereotype 	TRUE
 						line_color 	3342489
@@ -34593,14 +34656,14 @@
 						client     	@1280
 						supplier   	@1281
 						vertices   	(list Points
-						    (405, 1239)
-						    (405, 1680)
+						    (403, 1239)
+						    (403, 1680)
 						    (931, 1680))
 						line_style 	3
-						origin_attachment 	(405, 1239)
+						origin_attachment 	(403, 1239)
 						terminal_attachment 	(931, 1680))
 					    (object MessView "" @1319
-						location   	(448, 1636)
+						location   	(447, 1636)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34613,7 +34676,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1320
 						    Parent_View 	@1319
-						    location   	(687, 1497)
+						    location   	(686, 1497)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34634,7 +34697,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1321
 						    Parent_View 	@1319
-						    location   	(687, 1540)
+						    location   	(686, 1540)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34655,7 +34718,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1322
 						    Parent_View 	@1319
-						    location   	(687, 1583)
+						    location   	(686, 1583)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34679,8 +34742,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(388, 1636)
-						terminus   	(508, 1636))))))
+						origin     	(387, 1636)
+						terminus   	(507, 1636))))))
 			    (object Class_Category "sucControlarProduto"
 				quid       	"54396F2F003D"
 				exportControl 	"Public"
@@ -37093,7 +37156,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1390
 						    Parent_View 	@1389
-						    location   	(857, 480)
+						    location   	(842, 480)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37117,8 +37180,8 @@
 						supplier   	@1355
 						Focus_Src  	@1356
 						Focus_Entry 	@1357
-						origin     	(767, 522)
-						terminus   	(917, 522)
+						origin     	(752, 522)
+						terminus   	(902, 522)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @1391
 						location   	(16, 800)
@@ -37213,7 +37276,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1396
 						    Parent_View 	@1395
-						    location   	(1305, 969)
+						    location   	(1290, 969)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37237,8 +37300,8 @@
 						supplier   	@1367
 						Focus_Src  	@1368
 						Focus_Entry 	@1369
-						origin     	(1103, 1011)
-						terminus   	(1253, 1011)
+						origin     	(1088, 1011)
+						terminus   	(1238, 1011)
 						ordinal    	4)
 					    (object InterMessView "recuperaListaMarca( )" @1397
 						location   	(16, 1201)
@@ -37293,7 +37356,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1400
 						    Parent_View 	@1399
-						    location   	(1368, 1263)
+						    location   	(1353, 1263)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37317,8 +37380,8 @@
 						supplier   	@1367
 						Focus_Src  	@1368
 						Focus_Entry 	@1370
-						origin     	(1103, 1306)
-						terminus   	(1253, 1306)
+						origin     	(1088, 1306)
+						terminus   	(1238, 1306)
 						ordinal    	6)
 					    (object InterMessView "recuperaListaGrupo( )" @1401
 						location   	(16, 1489)
@@ -37373,7 +37436,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1404
 						    Parent_View 	@1403
-						    location   	(1371, 1550)
+						    location   	(1356, 1550)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37397,8 +37460,8 @@
 						supplier   	@1367
 						Focus_Src  	@1368
 						Focus_Entry 	@1371
-						origin     	(1103, 1594)
-						terminus   	(1253, 1594)
+						origin     	(1088, 1594)
+						terminus   	(1238, 1594)
 						ordinal    	8)
 					    (object InterMessView "btnGravar_click( )" @1405
 						location   	(16, 1760)
@@ -37453,7 +37516,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1408
 						    Parent_View 	@1407
-						    location   	(1290, 1822)
+						    location   	(1275, 1822)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37477,8 +37540,8 @@
 						supplier   	@1367
 						Focus_Src  	@1372
 						Focus_Entry 	@1373
-						origin     	(1103, 1865)
-						terminus   	(1253, 1865)
+						origin     	(1088, 1865)
+						terminus   	(1238, 1865)
 						ordinal    	10)
 					    (object InterMessView "incluirProduto( )" @1409
 						location   	(16, 2032)
@@ -37653,7 +37716,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1418
 						    Parent_View 	@1417
-						    location   	(873, 2486)
+						    location   	(858, 2486)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37677,8 +37740,8 @@
 						supplier   	@1355
 						Focus_Src  	@1359
 						Focus_Entry 	@1360
-						origin     	(767, 2530)
-						terminus   	(917, 2530)
+						origin     	(752, 2530)
+						terminus   	(902, 2530)
 						ordinal    	15)
 					    (object InterMessView "btnCancelar_click( )" @1419
 						location   	(16, 2784)
@@ -37773,7 +37836,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1424
 						    Parent_View 	@1423
-						    location   	(891, 2960)
+						    location   	(876, 2960)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37797,8 +37860,8 @@
 						supplier   	@1355
 						Focus_Src  	@1361
 						Focus_Entry 	@1362
-						origin     	(767, 3003)
-						terminus   	(917, 3003)
+						origin     	(752, 3003)
+						terminus   	(902, 3003)
 						ordinal    	18)
 					    (object InterMessView "btnBuscar_click( )" @1425
 						location   	(16, 3776)
@@ -37893,7 +37956,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1430
 						    Parent_View 	@1429
-						    location   	(1004, 4049)
+						    location   	(989, 4049)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37917,8 +37980,8 @@
 						supplier   	@1355
 						Focus_Src  	@1363
 						Focus_Entry 	@1364
-						origin     	(767, 4092)
-						terminus   	(917, 4092)
+						origin     	(752, 4092)
+						terminus   	(902, 4092)
 						ordinal    	21)
 					    (object InterMessView "btnAlterar_click( )" @1431
 						location   	(16, 4416)
@@ -37973,7 +38036,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1434
 						    Parent_View 	@1433
-						    location   	(1133, 4630)
+						    location   	(1118, 4630)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -37997,8 +38060,8 @@
 						supplier   	@1355
 						Focus_Src  	@1365
 						Focus_Entry 	@1366
-						origin     	(767, 4657)
-						terminus   	(917, 4657)
+						origin     	(752, 4657)
+						terminus   	(902, 4657)
 						ordinal    	23)
 					    (object InterMessView "formProduto( )" @1435
 						location   	(16, 4787)
@@ -38013,7 +38076,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1436
 						    Parent_View 	@1435
-						    location   	(911, 4743)
+						    location   	(903, 4743)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38037,7 +38100,7 @@
 						supplier   	@1367
 						Focus_Src  	@1366
 						Focus_Entry 	@1376
-						origin     	(766, 4787)
+						origin     	(751, 4787)
 						terminus   	(1056, 4787)
 						ordinal    	24)
 					    (object InterMessView "localizarProduto( )" @1437
@@ -38093,7 +38156,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1440
 						    Parent_View 	@1439
-						    location   	(1353, 5081)
+						    location   	(1338, 5081)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38117,8 +38180,8 @@
 						supplier   	@1367
 						Focus_Src  	@1376
 						Focus_Entry 	@1377
-						origin     	(1103, 5112)
-						terminus   	(1253, 5112)
+						origin     	(1088, 5112)
+						terminus   	(1238, 5112)
 						ordinal    	26)
 					    (object NoteView @1441
 						location   	(160, 656)
@@ -38169,7 +38232,7 @@
 						    location   	(992, 288)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -38198,7 +38261,7 @@
 						    location   	(335, 1484)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -38229,7 +38292,7 @@
 						    location   	(1551, 1468)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -38613,14 +38676,14 @@
 						client     	@1442
 						supplier   	@1443
 						vertices   	(list Points
-						    (933, 117)
-						    (325, 117)
-						    (325, 1252))
+						    (932, 114)
+						    (321, 114)
+						    (321, 1252))
 						line_style 	3
-						origin_attachment 	(933, 117)
-						terminal_attachment 	(325, 1252))
+						origin_attachment 	(932, 114)
+						terminal_attachment 	(321, 1252))
 					    (object MessView "" @1463
-						location   	(370, 381)
+						location   	(366, 378)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -38633,7 +38696,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1464
 						    Parent_View 	@1463
-						    location   	(494, 267)
+						    location   	(490, 264)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38654,7 +38717,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1465
 						    Parent_View 	@1463
-						    location   	(494, 310)
+						    location   	(490, 307)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38675,7 +38738,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1466
 						    Parent_View 	@1463
-						    location   	(494, 353)
+						    location   	(490, 350)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38696,7 +38759,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1467
 						    Parent_View 	@1463
-						    location   	(494, 396)
+						    location   	(490, 393)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38720,8 +38783,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(370, 321)
-						terminus   	(370, 441))
+						origin     	(366, 318)
+						terminus   	(366, 438))
 					    (object LinkView "" @1468
 						stereotype 	TRUE
 						line_color 	3342489
@@ -38730,13 +38793,13 @@
 						supplier   	@1444
 						vertices   	(list Points
 						    (1049, 128)
-						    (1550, 128)
-						    (1550, 1236))
+						    (1547, 128)
+						    (1547, 1236))
 						line_style 	3
 						origin_attachment 	(1049, 128)
-						terminal_attachment 	(1550, 1236))
+						terminal_attachment 	(1547, 1236))
 					    (object MessView "" @1469
-						location   	(1595, 431)
+						location   	(1592, 433)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -38749,7 +38812,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1470
 						    Parent_View 	@1469
-						    location   	(1320, 419)
+						    location   	(1317, 421)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38770,7 +38833,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1471
 						    Parent_View 	@1469
-						    location   	(1320, 462)
+						    location   	(1317, 464)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38791,7 +38854,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1472
 						    Parent_View 	@1469
-						    location   	(1320, 505)
+						    location   	(1317, 507)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38815,8 +38878,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1595, 371)
-						terminus   	(1595, 491))
+						origin     	(1592, 373)
+						terminus   	(1592, 493))
 					    (object LinkView "" @1473
 						stereotype 	TRUE
 						line_color 	3342489
@@ -39011,14 +39074,14 @@
 						client     	@1444
 						supplier   	@1446
 						vertices   	(list Points
-						    (1607, 1386)
-						    (1607, 1624)
+						    (1596, 1386)
+						    (1596, 1624)
 						    (2134, 1624))
 						line_style 	3
-						origin_attachment 	(1607, 1386)
+						origin_attachment 	(1596, 1386)
 						terminal_attachment 	(2134, 1624))
 					    (object MessView "" @1484
-						location   	(1751, 1580)
+						location   	(1746, 1580)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -39031,7 +39094,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1485
 						    Parent_View 	@1484
-						    location   	(1858, 1606)
+						    location   	(1853, 1606)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -39055,8 +39118,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1691, 1580)
-						terminus   	(1811, 1580))
+						origin     	(1686, 1580)
+						terminus   	(1806, 1580))
 					    (object LinkView "" @1486
 						stereotype 	TRUE
 						line_color 	3342489
@@ -43773,7 +43836,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1613
 						    Parent_View 	@1612
-						    location   	(872, 463)
+						    location   	(857, 463)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -43797,8 +43860,8 @@
 						supplier   	@1546
 						Focus_Src  	@1547
 						Focus_Entry 	@1548
-						origin     	(751, 506)
-						terminus   	(901, 506)
+						origin     	(736, 506)
+						terminus   	(886, 506)
 						ordinal    	1)
 					    (object InterMessView "btnNovo_click( )" @1614
 						location   	(16, 800)
@@ -43893,7 +43956,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1619
 						    Parent_View 	@1618
-						    location   	(1303, 991)
+						    location   	(1288, 991)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -43917,8 +43980,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1563
-						origin     	(1135, 1016)
-						terminus   	(1285, 1016)
+						origin     	(1120, 1016)
+						terminus   	(1270, 1016)
 						ordinal    	4)
 					    (object InterMessView "recuperaListaVendedor( )" @1620
 						location   	(16, 1183)
@@ -43973,7 +44036,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1623
 						    Parent_View 	@1622
-						    location   	(1372, 1261)
+						    location   	(1357, 1261)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -43997,8 +44060,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1564
-						origin     	(1135, 1288)
-						terminus   	(1285, 1288)
+						origin     	(1120, 1288)
+						terminus   	(1270, 1288)
 						ordinal    	6)
 					    (object InterMessView "recuperaListaCliente( )" @1624
 						location   	(16, 1471)
@@ -44053,7 +44116,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1627
 						    Parent_View 	@1626
-						    location   	(1403, 1548)
+						    location   	(1388, 1548)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44077,8 +44140,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1565
-						origin     	(1135, 1576)
-						terminus   	(1285, 1576)
+						origin     	(1120, 1576)
+						terminus   	(1270, 1576)
 						ordinal    	8)
 					    (object InterMessView "localizaConvenio( )" @1628
 						location   	(16, 1727)
@@ -44133,7 +44196,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1631
 						    Parent_View 	@1630
-						    location   	(1337, 1796)
+						    location   	(1322, 1796)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44157,8 +44220,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1566
-						origin     	(1135, 1839)
-						terminus   	(1285, 1839)
+						origin     	(1120, 1839)
+						terminus   	(1270, 1839)
 						ordinal    	10)
 					    (object SelfMessView "calculaPercDesconto( )" @1632
 						location   	(16, 1999)
@@ -44173,7 +44236,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1633
 						    Parent_View 	@1632
-						    location   	(1383, 1971)
+						    location   	(1368, 1971)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44197,8 +44260,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1567
-						origin     	(1135, 1999)
-						terminus   	(1285, 1999)
+						origin     	(1120, 1999)
+						terminus   	(1270, 1999)
 						ordinal    	11)
 					    (object InterMessView "recuperaListaProduto( )" @1634
 						location   	(16, 2191)
@@ -44253,7 +44316,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1637
 						    Parent_View 	@1636
-						    location   	(1418, 2253)
+						    location   	(1403, 2253)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44277,8 +44340,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1568
-						origin     	(1135, 2296)
-						terminus   	(1285, 2296)
+						origin     	(1120, 2296)
+						terminus   	(1270, 2296)
 						ordinal    	13)
 					    (object InterMessView "btnGravar_Click( )" @1638
 						location   	(16, 5593)
@@ -44333,7 +44396,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1641
 						    Parent_View 	@1640
-						    location   	(1322, 5789)
+						    location   	(1307, 5789)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44357,8 +44420,8 @@
 						supplier   	@1561
 						Focus_Src  	@1579
 						Focus_Entry 	@1580
-						origin     	(1135, 5831)
-						terminus   	(1285, 5831)
+						origin     	(1120, 5831)
+						terminus   	(1270, 5831)
 						ordinal    	32)
 					    (object InterMessView "btnAdicionar_click( )" @1642
 						location   	(16, 2752)
@@ -44413,7 +44476,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1645
 						    Parent_View 	@1644
-						    location   	(1322, 2814)
+						    location   	(1307, 2814)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44437,8 +44500,8 @@
 						supplier   	@1561
 						Focus_Src  	@1570
 						Focus_Entry 	@1571
-						origin     	(1135, 2857)
-						terminus   	(1285, 2857)
+						origin     	(1120, 2857)
+						terminus   	(1270, 2857)
 						ordinal    	17)
 					    (object SelfMessView "validaQtd( )" @1646
 						location   	(16, 2991)
@@ -44453,7 +44516,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1647
 						    Parent_View 	@1646
-						    location   	(1289, 2948)
+						    location   	(1274, 2948)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44477,8 +44540,8 @@
 						supplier   	@1561
 						Focus_Src  	@1570
 						Focus_Entry 	@1572
-						origin     	(1135, 2991)
-						terminus   	(1285, 2991)
+						origin     	(1120, 2991)
+						terminus   	(1270, 2991)
 						ordinal    	18)
 					    (object InterMessView "alteraOrcamento( )" @1648
 						location   	(16, 6194)
@@ -44693,7 +44756,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1659
 						    Parent_View 	@1658
-						    location   	(1485, 2542)
+						    location   	(1470, 2542)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44717,8 +44780,8 @@
 						supplier   	@1561
 						Focus_Src  	@1562
 						Focus_Entry 	@1569
-						origin     	(1135, 2585)
-						terminus   	(1285, 2585)
+						origin     	(1120, 2585)
+						terminus   	(1270, 2585)
 						ordinal    	15)
 					    (object InterMessView "alteraItemOrcamento( )" @1660
 						location   	(16, 3312)
@@ -44773,7 +44836,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1663
 						    Parent_View 	@1662
-						    location   	(1514, 4311)
+						    location   	(1499, 4311)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44797,8 +44860,8 @@
 						supplier   	@1561
 						Focus_Src  	@1573
 						Focus_Entry 	@1574
-						origin     	(1135, 4370)
-						terminus   	(1285, 4370)
+						origin     	(1120, 4370)
+						terminus   	(1270, 4370)
 						ordinal    	25)
 					    (object SelfMessView "validarExclusao( )" @1664
 						location   	(16, 4600)
@@ -44813,7 +44876,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1665
 						    Parent_View 	@1664
-						    location   	(1334, 4576)
+						    location   	(1319, 4576)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44837,8 +44900,8 @@
 						supplier   	@1561
 						Focus_Src  	@1573
 						Focus_Entry 	@1575
-						origin     	(1135, 4600)
-						terminus   	(1285, 4600)
+						origin     	(1120, 4600)
+						terminus   	(1270, 4600)
 						ordinal    	26)
 					    (object InterMessView "excluiItemOrcamento( )" @1666
 						location   	(16, 4808)
@@ -44893,7 +44956,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1669
 						    Parent_View 	@1668
-						    location   	(1334, 4978)
+						    location   	(1319, 4978)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44917,8 +44980,8 @@
 						supplier   	@1561
 						Focus_Src  	@1573
 						Focus_Entry 	@1576
-						origin     	(1135, 5004)
-						terminus   	(1285, 5004)
+						origin     	(1120, 5004)
+						terminus   	(1270, 5004)
 						ordinal    	28)
 					    (object SelfMessView "calculaDesconto( )" @1670
 						location   	(16, 5208)
@@ -44933,7 +44996,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1671
 						    Parent_View 	@1670
-						    location   	(1352, 5165)
+						    location   	(1337, 5165)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44957,8 +45020,8 @@
 						supplier   	@1561
 						Focus_Src  	@1573
 						Focus_Entry 	@1577
-						origin     	(1135, 5208)
-						terminus   	(1285, 5208)
+						origin     	(1120, 5208)
+						terminus   	(1270, 5208)
 						ordinal    	29)
 					    (object SelfMessView "calculaTotalLiquido( )" @1672
 						location   	(16, 5368)
@@ -44973,7 +45036,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1673
 						    Parent_View 	@1672
-						    location   	(1386, 5345)
+						    location   	(1371, 5345)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -44997,8 +45060,8 @@
 						supplier   	@1561
 						Focus_Src  	@1573
 						Focus_Entry 	@1578
-						origin     	(1135, 5368)
-						terminus   	(1285, 5368)
+						origin     	(1120, 5368)
+						terminus   	(1270, 5368)
 						ordinal    	30)
 					    (object InterMessView "btnCancelar_Click( )" @1674
 						location   	(16, 7257)
@@ -45093,7 +45156,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1679
 						    Parent_View 	@1678
-						    location   	(989, 7441)
+						    location   	(974, 7441)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45117,8 +45180,8 @@
 						supplier   	@1546
 						Focus_Src  	@1552
 						Focus_Entry 	@1553
-						origin     	(751, 7467)
-						terminus   	(901, 7467)
+						origin     	(736, 7467)
+						terminus   	(886, 7467)
 						ordinal    	42)
 					    (object InterMessView "btnBuscar_click( )" @1680
 						location   	(16, 7721)
@@ -45213,7 +45276,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1685
 						    Parent_View 	@1684
-						    location   	(983, 7914)
+						    location   	(968, 7914)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45237,8 +45300,8 @@
 						supplier   	@1546
 						Focus_Src  	@1554
 						Focus_Entry 	@1555
-						origin     	(751, 7939)
-						terminus   	(901, 7939)
+						origin     	(736, 7939)
+						terminus   	(886, 7939)
 						ordinal    	45)
 					    (object InterMessView "btnEnviar_click( )" @1686
 						location   	(16, 6441)
@@ -45413,7 +45476,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1695
 						    Parent_View 	@1694
-						    location   	(1001, 6967)
+						    location   	(986, 6967)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45437,8 +45500,8 @@
 						supplier   	@1546
 						Focus_Src  	@1550
 						Focus_Entry 	@1551
-						origin     	(751, 6993)
-						terminus   	(901, 6993)
+						origin     	(736, 6993)
+						terminus   	(886, 6993)
 						ordinal    	39)
 					    (object InterMessView "btnAlterar_click( )" @1696
 						location   	(16, 8185)
@@ -45493,7 +45556,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1699
 						    Parent_View 	@1698
-						    location   	(1244, 8247)
+						    location   	(1229, 8247)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45517,8 +45580,8 @@
 						supplier   	@1546
 						Focus_Src  	@1556
 						Focus_Entry 	@1557
-						origin     	(751, 8290)
-						terminus   	(901, 8290)
+						origin     	(736, 8290)
+						terminus   	(886, 8290)
 						ordinal    	47)
 					    (object InterMessView "btnExcluir_click( )" @1700
 						location   	(16, 8937)
@@ -45573,7 +45636,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1703
 						    Parent_View 	@1702
-						    location   	(1208, 9004)
+						    location   	(1193, 9004)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45597,8 +45660,8 @@
 						supplier   	@1546
 						Focus_Src  	@1558
 						Focus_Entry 	@1559
-						origin     	(751, 9047)
-						terminus   	(901, 9047)
+						origin     	(736, 9047)
+						terminus   	(886, 9047)
 						ordinal    	52)
 					    (object SelfMessView "validaExcluisao( )" @1704
 						location   	(16, 9198)
@@ -45613,7 +45676,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1705
 						    Parent_View 	@1704
-						    location   	(965, 9172)
+						    location   	(950, 9172)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45637,8 +45700,8 @@
 						supplier   	@1546
 						Focus_Src  	@1558
 						Focus_Entry 	@1560
-						origin     	(751, 9198)
-						terminus   	(901, 9198)
+						origin     	(736, 9198)
+						terminus   	(886, 9198)
 						ordinal    	53)
 					    (object InterMessView "excluirOrcamento( )" @1706
 						location   	(16, 9566)
@@ -45813,7 +45876,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1715
 						    Parent_View 	@1714
-						    location   	(1210, 8655)
+						    location   	(1195, 8655)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -45837,8 +45900,8 @@
 						supplier   	@1561
 						Focus_Src  	@1584
 						Focus_Entry 	@1585
-						origin     	(1135, 8699)
-						terminus   	(1285, 8699)
+						origin     	(1120, 8699)
+						terminus   	(1270, 8699)
 						ordinal    	50)
 					    (object NoteView @1716
 						location   	(160, 544)
@@ -46009,7 +46072,7 @@
 						    location   	(1424, 704)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	365
+						    max_width  	369
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -46038,7 +46101,7 @@
 						    location   	(495, 1564)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	723
+						    max_width  	726
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -46069,7 +46132,7 @@
 						    location   	(2159, 1708)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	723
+						    max_width  	726
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -46219,7 +46282,7 @@
 						    location   	(2687, 412)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	723
+						    max_width  	726
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -48722,7 +48785,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1839
 						    Parent_View 	@1838
-						    location   	(777, 430)
+						    location   	(762, 430)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -48746,8 +48809,8 @@
 						supplier   	@1821
 						Focus_Src  	@1822
 						Focus_Entry 	@1823
-						origin     	(671, 473)
-						terminus   	(821, 473)
+						origin     	(656, 473)
+						terminus   	(806, 473)
 						ordinal    	1)
 					    (object InterMessView "recuperaListaGrupo( )" @1840
 						location   	(16, 640)
@@ -48802,7 +48865,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1843
 						    Parent_View 	@1842
-						    location   	(904, 708)
+						    location   	(889, 708)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -48826,8 +48889,8 @@
 						supplier   	@1821
 						Focus_Src  	@1822
 						Focus_Entry 	@1824
-						origin     	(671, 752)
-						terminus   	(821, 752)
+						origin     	(656, 752)
+						terminus   	(806, 752)
 						ordinal    	3)
 					    (object InterMessView "recuperaListaMarca( )" @1844
 						location   	(16, 896)
@@ -48882,7 +48945,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1847
 						    Parent_View 	@1846
-						    location   	(921, 965)
+						    location   	(906, 965)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -48906,8 +48969,8 @@
 						supplier   	@1821
 						Focus_Src  	@1822
 						Focus_Entry 	@1825
-						origin     	(671, 1008)
-						terminus   	(821, 1008)
+						origin     	(656, 1008)
+						terminus   	(806, 1008)
 						ordinal    	5)
 					    (object InterMessView "btnImprimir_click( )" @1848
 						location   	(16, 1200)
@@ -49002,7 +49065,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1853
 						    Parent_View 	@1852
-						    location   	(1257, 1472)
+						    location   	(1242, 1472)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -49026,8 +49089,8 @@
 						supplier   	@1827
 						Focus_Src  	@1828
 						Focus_Entry 	@1829
-						origin     	(1071, 1515)
-						terminus   	(1221, 1515)
+						origin     	(1056, 1515)
+						terminus   	(1206, 1515)
 						ordinal    	9)
 					    (object InterMessView "buscarProduto( )" @1854
 						location   	(16, 1410)
@@ -49095,7 +49158,7 @@
 						    location   	(256, 944)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -49124,7 +49187,7 @@
 						    location   	(975, 940)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -49155,7 +49218,7 @@
 						    location   	(1855, 940)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -50464,7 +50527,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1907
 						    Parent_View 	@1906
-						    location   	(889, 398)
+						    location   	(874, 398)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -50488,8 +50551,8 @@
 						supplier   	@1892
 						Focus_Src  	@1893
 						Focus_Entry 	@1894
-						origin     	(783, 441)
-						terminus   	(933, 441)
+						origin     	(768, 441)
+						terminus   	(918, 441)
 						ordinal    	1)
 					    (object InterMessView "recuperaListaCliente( )" @1908
 						location   	(16, 592)
@@ -50544,7 +50607,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1911
 						    Parent_View 	@1910
-						    location   	(1020, 654)
+						    location   	(1005, 654)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -50568,8 +50631,8 @@
 						supplier   	@1892
 						Focus_Src  	@1893
 						Focus_Entry 	@1895
-						origin     	(783, 697)
-						terminus   	(933, 697)
+						origin     	(768, 697)
+						terminus   	(918, 697)
 						ordinal    	3)
 					    (object InterMessView "btnImprimir_click( )" @1912
 						location   	(16, 880)
@@ -50704,7 +50767,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1919
 						    Parent_View 	@1918
-						    location   	(1419, 1159)
+						    location   	(1404, 1159)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -50728,8 +50791,8 @@
 						supplier   	@1897
 						Focus_Src  	@1898
 						Focus_Entry 	@1899
-						origin     	(1215, 1202)
-						terminus   	(1365, 1202)
+						origin     	(1200, 1202)
+						terminus   	(1350, 1202)
 						ordinal    	7)))
 				    (object ObjectDiagram "Diagrama de comunicao UC relatorioOrcamento"
 					mechanism_ref 	@1886
@@ -50757,7 +50820,7 @@
 						    location   	(176, 720)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -50786,7 +50849,7 @@
 						    location   	(1023, 716)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -50817,7 +50880,7 @@
 						    location   	(1743, 716)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -51098,14 +51161,14 @@
 						client     	@1921
 						supplier   	@1923
 						vertices   	(list Points
-						    (1043, 634)
-						    (1043, 1132)
+						    (1035, 634)
+						    (1035, 1132)
 						    (650, 1132))
 						line_style 	3
-						origin_attachment 	(1043, 634)
+						origin_attachment 	(1035, 634)
 						terminal_attachment 	(650, 1132))
 					    (object MessView "" @1937
-						location   	(1088, 1079)
+						location   	(1080, 1075)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -51118,7 +51181,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1938
 						    Parent_View 	@1937
-						    location   	(884, 1152)
+						    location   	(876, 1148)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -51142,8 +51205,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1088, 1019)
-						terminus   	(1088, 1139))
+						origin     	(1080, 1015)
+						terminus   	(1080, 1135))
 					    (object LinkView "" @1939
 						stereotype 	TRUE
 						line_color 	3342489
@@ -51203,14 +51266,14 @@
 						client     	@1922
 						supplier   	@1924
 						vertices   	(list Points
-						    (1773, 634)
-						    (1773, 1118)
+						    (1765, 634)
+						    (1765, 1118)
 						    (1534, 1118))
 						line_style 	3
-						origin_attachment 	(1773, 634)
+						origin_attachment 	(1765, 634)
 						terminal_attachment 	(1534, 1118))
 					    (object MessView "" @1943
-						location   	(1818, 995)
+						location   	(1810, 992)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -51223,7 +51286,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1944
 						    Parent_View 	@1943
-						    location   	(1781, 1162)
+						    location   	(1773, 1159)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -51247,8 +51310,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1818, 935)
-						terminus   	(1818, 1055))))))
+						origin     	(1810, 932)
+						terminus   	(1810, 1052))))))
 			    (object Class_Category "sucRelatorioCliente"
 				quid       	"54D2E86F01F7"
 				exportControl 	"Public"
@@ -51918,7 +51981,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1963
 						    Parent_View 	@1962
-						    location   	(890, 397)
+						    location   	(875, 397)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -51942,8 +52005,8 @@
 						supplier   	@1951
 						Focus_Src  	@1952
 						Focus_Entry 	@1953
-						origin     	(815, 441)
-						terminus   	(965, 441)
+						origin     	(800, 441)
+						terminus   	(950, 441)
 						ordinal    	1)
 					    (object InterMessView "btnImprimir_click( )" @1964
 						location   	(16, 624)
@@ -52078,7 +52141,7 @@
 						    default_color 	TRUE)
 						label      	(object SegLabel @1971
 						    Parent_View 	@1970
-						    location   	(1322, 895)
+						    location   	(1307, 895)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -52102,8 +52165,8 @@
 						supplier   	@1955
 						Focus_Src  	@1956
 						Focus_Entry 	@1957
-						origin     	(1247, 939)
-						terminus   	(1397, 939)
+						origin     	(1232, 939)
+						terminus   	(1382, 939)
 						ordinal    	5)))
 				    (object ObjectDiagram "Diagrama de Comunicacao UC relatorioCliente"
 					mechanism_ref 	@1945
@@ -52131,7 +52194,7 @@
 						    location   	(192, 612)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	351
+						    max_width  	355
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -52160,7 +52223,7 @@
 						    location   	(895, 604)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -52220,7 +52283,7 @@
 						    location   	(1631, 604)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	693
+						    max_width  	697
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -52473,14 +52536,14 @@
 						client     	@1975
 						supplier   	@1974
 						vertices   	(list Points
-						    (1623, 522)
-						    (1623, 1249)
+						    (1621, 522)
+						    (1621, 1249)
 						    (1082, 1249))
 						line_style 	3
-						origin_attachment 	(1623, 522)
+						origin_attachment 	(1621, 522)
 						terminal_attachment 	(1082, 1249))
 					    (object MessView "" @1990
-						location   	(1668, 1156)
+						location   	(1666, 1154)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -52493,7 +52556,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1991
 						    Parent_View 	@1990
-						    location   	(1426, 1156)
+						    location   	(1424, 1154)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -52517,8 +52580,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1668, 1096)
-						terminus   	(1668, 1216)))))))
+						origin     	(1666, 1094)
+						terminus   	(1666, 1214)))))))
 			logical_presentations 	(list unit_reference_list))
 		    (object Class_Category "Process View"
 			quid       	"35D227B103C0"
@@ -70920,6 +70983,15 @@
 					    height     	54
 					    orientation 	1)))))))))
 	logical_presentations 	(list unit_reference_list
+	    (object ClassDiagram "Main"
+		quid       	"54D542B2026F"
+		title      	"Main"
+		zoom       	100
+		max_height 	28350
+		max_width  	21600
+		origin_x   	0
+		origin_y   	0
+		items      	(list diagram_item_list))
 	    (object Tier_Diagram "Three-Tiered Service Model"
 		quid       	"542FE36502EF"
 		title      	"Three-Tiered Service Model"
@@ -71334,16 +71406,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2242
-				    location   	(321, 662)
+				    location   	(320, 662)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Cliente")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2242
-				    location   	(321, 592)
+				    location   	(320, 592)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71355,9 +71427,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC261D0358"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iCliente" @2243
 				location   	(1056, 640)
@@ -71393,7 +71465,7 @@
 				client     	@2242
 				supplier   	@2243
 				vertices   	(list Points
-				    (659, 640)
+				    (662, 640)
 				    (1028, 640))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Orçamento" "NotAModuleType" "NotAModulePart" @2245
@@ -71409,16 +71481,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2245
-				    location   	(2593, 422)
+				    location   	(2592, 422)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Orçamento")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2245
-				    location   	(2593, 352)
+				    location   	(2592, 352)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71430,9 +71502,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27AC02B0"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iOrçamento" @2246
 				location   	(2048, 400)
@@ -71468,7 +71540,7 @@
 				client     	@2245
 				supplier   	@2246
 				vertices   	(list Points
-				    (2410, 400)
+				    (2402, 400)
 				    (2074, 400))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Vendedor" "NotAModuleType" "NotAModulePart" @2248
@@ -71484,16 +71556,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2248
-				    location   	(321, 966)
+				    location   	(320, 966)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Vendedor")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2248
-				    location   	(321, 896)
+				    location   	(320, 896)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71505,9 +71577,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27E1034C"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iVendedor" @2249
 				location   	(1136, 944)
@@ -71543,7 +71615,7 @@
 				client     	@2248
 				supplier   	@2249
 				vertices   	(list Points
-				    (659, 944)
+				    (662, 944)
 				    (1107, 944))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Usuario" "NotAModuleType" "NotAModulePart" @2251
@@ -71559,16 +71631,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2251
-				    location   	(2673, 1350)
+				    location   	(2672, 1350)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Usuario")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2251
-				    location   	(2673, 1280)
+				    location   	(2672, 1280)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71580,9 +71652,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27FA0247"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iUsuario" @2252
 				location   	(2000, 1328)
@@ -71618,7 +71690,7 @@
 				client     	@2251
 				supplier   	@2252
 				vertices   	(list Points
-				    (2487, 1328)
+				    (2482, 1328)
 				    (2026, 1328))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::ItemOrçamento" "NotAModuleType" "NotAModulePart" @2254
@@ -71634,16 +71706,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2254
-				    location   	(337, 1670)
+				    location   	(336, 1670)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"ItemOrçamento")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2254
-				    location   	(337, 1600)
+				    location   	(336, 1600)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71655,9 +71727,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC281B0337"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iItem Orçamento" @2255
 				location   	(1184, 1632)
@@ -71693,7 +71765,7 @@
 				client     	@2254
 				supplier   	@2255
 				vertices   	(list Points
-				    (675, 1640)
+				    (678, 1640)
 				    (1155, 1631))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Convenio" "NotAModuleType" "NotAModulePart" @2257
@@ -71709,16 +71781,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2257
-				    location   	(2641, 998)
+				    location   	(2640, 998)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Convenio")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2257
-				    location   	(2641, 928)
+				    location   	(2640, 928)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71730,9 +71802,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC284C0231"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iConvenio" @2258
 				location   	(2096, 976)
@@ -71768,7 +71840,7 @@
 				client     	@2257
 				supplier   	@2258
 				vertices   	(list Points
-				    (2458, 976)
+				    (2450, 976)
 				    (2122, 976))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Produto" "NotAModuleType" "NotAModulePart" @2260
@@ -71784,16 +71856,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2260
-				    location   	(289, 406)
+				    location   	(288, 406)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Produto")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2260
-				    location   	(289, 336)
+				    location   	(288, 336)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71805,9 +71877,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC286601DD"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iProduto" @2261
 				location   	(1072, 384)
@@ -71849,16 +71921,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2262
-				    location   	(2641, 710)
+				    location   	(2640, 710)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	300
+				    max_width  	303
 				    justify    	1
 				    label      	"Grupo")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2262
-				    location   	(2641, 640)
+				    location   	(2640, 640)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71870,9 +71942,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC287D0284"
-				width      	540
+				width      	546
 				autoResize 	TRUE
-				width      	540
+				width      	546
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iGrupo" @2263
 				location   	(2128, 688)
@@ -71908,7 +71980,7 @@
 				client     	@2262
 				supplier   	@2263
 				vertices   	(list Points
-				    (2458, 688)
+				    (2452, 688)
 				    (2154, 688))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Marca" "NotAModuleType" "NotAModulePart" @2265
@@ -71924,16 +71996,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2265
-				    location   	(332, 1270)
+				    location   	(331, 1270)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	316
+				    max_width  	320
 				    justify    	1
 				    label      	"Marca")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2265
-				    location   	(332, 1200)
+				    location   	(331, 1200)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71945,9 +72017,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC289202DA"
-				width      	570
+				width      	576
 				autoResize 	TRUE
-				width      	570
+				width      	576
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iMarca" @2266
 				location   	(1184, 1248)
@@ -71983,7 +72055,7 @@
 				client     	@2265
 				supplier   	@2266
 				vertices   	(list Points
-				    (689, 1248)
+				    (692, 1248)
 				    (1155, 1248))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Orçamentos" "NotAModuleType" "NotAModulePart" @2268
@@ -72023,7 +72095,7 @@
 				client     	@2260
 				supplier   	@2261
 				vertices   	(list Points
-				    (627, 384)
+				    (630, 384)
 				    (1044, 384))
 				line_style 	0)
 			    (object ModVisView "" @2270
@@ -72335,19 +72407,26 @@
     process_structure 	(object Processes
 	quid       	"34DBB4830144"
 	ProcsNDevs 	(list
-	    (object Processor "<processor name>"
+	    (object Processor "$UNNAMED$286"
 		quid       	"34DBBD4300B4"
 		documentation 	"This node provides <enter a short description here of the functionality and capability of the node>."
+		stereotype 	"Servidor"
 		connections 	(list connection_list
 		    (object Connection_Relationship
-			quid       	"34DBBD4B008C"
-			supplier   	"<device name>"
-			quidu      	"34DBBD47019A"
+			quid       	"54D545D3015B"
+			label      	"Web Service"
+			supplier   	"$UNNAMED$286"
+			quidu      	"34DBBD4300B4"
+			supplier_is_device 	FALSE)
+		    (object Connection_Relationship
+			quid       	"54D546AC01E4"
+			supplier   	"Integração"
+			quidu      	"54D546BA0189"
 			supplier_is_device 	TRUE))
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes
-		    (object Process "<process name>"
+		    (object Process "<Unspecified>"
 			quid       	"35DB411001D6"
 			documentation 	"This process corresponds to the process with the same name in the Logical View::Process Model."
 			stereotype 	"process"
@@ -72357,9 +72436,61 @@
 			documentation 	"This process corresponds to the thread with the same name in the Logical View::Process Model."
 			stereotype 	"thread"
 			priority   	"")))
-	    (object Device "<device name>"
+	    (object Processor "NewProcessor"
+		quid       	"54D5466F0187"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Sistema de Vendas"
+		quid       	"54D547A40219"
+		stereotype 	"Sistema de Vendas"
+		connections 	(list connection_list
+		    (object Connection_Relationship
+			quid       	"54D5481700E3"
+			supplier   	"Integração"
+			quidu      	"54D546BA0189"
+			supplier_is_device 	TRUE)
+		    (object Connection_Relationship
+			quid       	"54D548CD01D9"
+			stereotype 	"web service"
+			supplier   	"Integração"
+			quidu      	"54D546BA0189"
+			supplier_is_device 	TRUE)
+		    (object Connection_Relationship
+			quid       	"54D54C530244"
+			stereotype 	"web service"
+			supplier   	"$UNNAMED$286"
+			quidu      	"34DBBD4300B4"
+			supplier_is_device 	FALSE))
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Device "Dispositivos de acesso externo"
 		quid       	"34DBBD47019A"
 		documentation 	"This device provides <enter a short description of the capability the device provides> for the system."
+		connections 	(list connection_list
+		    (object Connection_Relationship
+			quid       	"54D55AA803BA"
+			label      	"Internet"
+			supplier   	"$UNNAMED$286"
+			quidu      	"34DBBD4300B4"
+			supplier_is_device 	FALSE))
+		characteristics 	"")
+	    (object Device "Integração"
+		quid       	"54D546BA0189"
+		connections 	(list connection_list
+		    (object Connection_Relationship
+			quid       	"54D5469F0101"
+			stereotype 	"web service"
+			supplier   	"$UNNAMED$286"
+			quidu      	"34DBBD4300B4"
+			supplier_is_device 	FALSE)
+		    (object Connection_Relationship
+			quid       	"34DBBD4B008C"
+			stereotype 	"Internet"
+			supplier   	"Dispositivos de acesso externo"
+			quidu      	"34DBBD47019A"
+			supplier_is_device 	TRUE))
 		characteristics 	"")
 	    (object Process_Diagram "Deployment View"
 		quid       	"34DBB4830146"
@@ -72378,10 +72509,10 @@
 		max_height 	28350
 		max_width  	21600
 		origin_x   	0
-		origin_y   	0
+		origin_y   	444
 		items      	(list diagram_item_list
-		    (object ProcessorView "<processor name>" @2280
-			location   	(512, 1056)
+		    (object DeviceView "Dispositivos de acesso externo" @2280
+			location   	(1792, 1744)
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72393,49 +72524,17 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2280
-			    location   	(276, 900)
-			    nlines     	2
-			    max_width  	400
-			    justify    	0
-			    label      	"<processor name>")
-			icon_style 	"Label"
-			quidu      	"34DBBD4300B4"
-			width      	475
-			height     	381
-			annotation 	3)
-		    (object DeviceView "<device name>" @2281
-			location   	(1040, 1056)
-			font       	(object Font
-			    size       	9
-			    face       	"Arial"
-			    bold       	FALSE
-			    italics    	FALSE
-			    underline  	FALSE
-			    strike     	FALSE
-			    color      	0
-			    default_color 	TRUE)
-			label      	(object ItemLabel
-			    Parent_View 	@2281
-			    location   	(867, 950)
+			    location   	(1619, 1638)
 			    nlines     	2
 			    max_width  	275
 			    justify    	0
-			    label      	"<device name>")
+			    label      	"Dispositivos de acesso externo")
 			icon_style 	"Icon"
 			quidu      	"34DBBD47019A"
 			width      	350
 			height     	282
 			annotation 	0)
-		    (object ConnectionView "" @2282
-			stereotype 	TRUE
-			quidu      	"34DBBD4B008C"
-			client     	@2280
-			supplier   	@2281
-			vertices   	(list Points
-			    (718, 1056)
-			    (865, 1056))
-			line_style 	0)
-		    (object NoteView @2283
+		    (object NoteView @2281
 			location   	(816, 304)
 			font       	(object Font
 			    size       	9
@@ -72447,7 +72546,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2283
+			    Parent_View 	@2281
 			    location   	(38, 29)
 			    fill_color 	13434879
 			    nlines     	11
@@ -72466,7 +72565,182 @@
 			line_color 	3342489
 			fill_color 	13434879
 			width      	1581
-			height     	563)))))
+			height     	563)
+		    (object NoteView @2282
+			location   	(2224, 944)
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@2282
+			    location   	(2011, 831)
+			    fill_color 	13434879
+			    nlines     	4
+			    max_width  	390
+			    justify    	1
+			    label      	"Servidor onde será armazenado o sistema de Controle de Orçamentos")
+			line_color 	3342489
+			fill_color 	13434879
+			width      	450
+			height     	238)
+		    (object ProcessorView "$UNNAMED$286" @2283
+			location   	(1792, 976)
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@2283
+			    location   	(1619, 917)
+			    nlines     	2
+			    max_width  	275
+			    justify    	0
+			    label      	"")
+			stereotype 	(object ItemLabel
+			    Parent_View 	@2283
+			    location   	(1619, 870)
+			    anchor     	10
+			    nlines     	1
+			    max_width  	275
+			    justify    	0
+			    label      	"<<Servidor>>")
+			icon_style 	"Label"
+			quidu      	"34DBBD4300B4"
+			width      	350
+			height     	282
+			annotation 	0)
+		    (object ProcessorView "Sistema de Vendas" @2284
+			location   	(481, 976)
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@2284
+			    location   	(214, 845)
+			    nlines     	2
+			    max_width  	462
+			    justify    	0
+			    label      	"Sistema de Vendas")
+			stereotype 	(object ItemLabel
+			    Parent_View 	@2284
+			    location   	(214, 798)
+			    anchor     	10
+			    nlines     	1
+			    max_width  	462
+			    justify    	0
+			    label      	"<<Sistema de Vendas>>")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"54D547A40219"
+			width      	537
+			height     	425
+			annotation 	0)
+		    (object NoteView @2285
+			location   	(2352, 1712)
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@2285
+			    location   	(2089, 1606)
+			    fill_color 	13434879
+			    nlines     	4
+			    max_width  	491
+			    justify    	1
+			    label      	"Smartphones, notebooks, computadores, etc. utilizados para vendas externas")
+			line_color 	3342489
+			fill_color 	13434879
+			width      	551
+			height     	225)
+		    (object ConnectionView "" @2286
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			stereotype 	(object SegLabel @2287
+			    Parent_View 	@2286
+			    location   	(1167, 869)
+			    font       	(object Font
+				size       	9
+				face       	"Arial"
+				bold       	FALSE
+				italics    	FALSE
+				underline  	FALSE
+				strike     	FALSE
+				color      	0
+				default_color 	TRUE)
+			    anchor     	10
+			    anchor_loc 	1
+			    nlines     	1
+			    max_width  	450
+			    justify    	0
+			    label      	"<<web service>>"
+			    pctDist    	0.500000
+			    height     	108
+			    orientation 	0)
+			line_color 	3342489
+			quidu      	"54D54C530244"
+			client     	@2284
+			supplier   	@2283
+			vertices   	(list Points
+			    (718, 976)
+			    (1617, 976))
+			line_style 	0)
+		    (object ConnectionView "Internet" @2288
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@2288
+			    location   	(1792, 1367)
+			    anchor_loc 	1
+			    nlines     	1
+			    max_width  	125
+			    justify    	0
+			    label      	"Internet")
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"54D55AA803BA"
+			client     	@2280
+			supplier   	@2283
+			vertices   	(list Points
+			    (1792, 1618)
+			    (1792, 1117))
+			line_style 	0)))))
     properties 	(object Properties
 	attributes 	(list Attribute_Set
 	    (object Attribute
