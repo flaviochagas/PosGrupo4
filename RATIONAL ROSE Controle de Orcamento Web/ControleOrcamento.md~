@@ -763,7 +763,7 @@
 					    autoResize 	TRUE)
 					(object StateView "Normal" "Receber Orçamento" @6
 					    Parent_View 	@1
-					    location   	(256, 960)
+					    location   	(256, 1008)
 					    font       	(object Font
 						size       	9
 						face       	"Arial"
@@ -775,19 +775,19 @@
 						default_color 	TRUE)
 					    label      	(object ItemLabel
 						Parent_View 	@6
-						location   	(256, 920)
+						location   	(256, 922)
 						fill_color 	13434879
 						anchor_loc 	1
 						nlines     	2
-						max_width  	264
+						max_width  	274
 						justify    	0
 						label      	"Receber Orçamento")
 					    icon_style 	"Icon"
 					    line_color 	3342489
 					    fill_color 	13434879
 					    quidu      	"54149F2E001F"
-					    width      	360
-					    height     	186
+					    width      	370
+					    height     	280
 					    autoResize 	TRUE)
 					(object DecisionView "Foi Aprovado?" @7
 					    Parent_View 	@1
@@ -833,10 +833,10 @@
 					    client     	@6
 					    supplier   	@7
 					    vertices   	(list Points
-						(240, 1053)
+						(240, 1148)
 						(240, 1451))
 					    line_style 	3
-					    origin_attachment 	(240, 1053)
+					    origin_attachment 	(240, 1148)
 					    terminal_attachment 	(240, 1451)
 					    x_offset   	FALSE)
 					(object TransView "" @10
@@ -989,8 +989,8 @@
 					    client     	@16
 					    supplier   	@6
 					    vertices   	(list Points
-						(1034, 946)
-						(436, 956))
+						(1034, 954)
+						(441, 995))
 					    line_style 	0
 					    x_offset   	FALSE)
 					(object StateView "Normal" "Receber Liberaçäo" @18
@@ -1220,11 +1220,11 @@
 						max_width  	270
 						justify    	0
 						label      	"Encaminhar Vendedor")
-					    icon_style 	"Icon"
+					    icon_style 	"Label"
 					    line_color 	3342489
 					    fill_color 	13434879
 					    quidu      	"54149C6D00BB"
-					    width      	367
+					    width      	366
 					    height     	162
 					    autoResize 	TRUE)
 					(object TransView "" @30
@@ -9870,7 +9870,7 @@
 				zoom       	100
 				max_height 	28350
 				max_width  	21600
-				origin_x   	0
+				origin_x   	622
 				origin_y   	0
 				items      	(list diagram_item_list)))))
 		logical_presentations 	(list unit_reference_list))
@@ -36246,7 +36246,7 @@
 					    supplier_quidu 	"54AC8AD8007B"
 					    client     	"Logical View::Design Model::Use-Case Realizations::sucControlarProduto::Diagrama de Estado Produto::Ativo"
 					    client_quidu 	"54AC8AC50294"
-					    Event      	(object Event "Ativar()"
+					    Event      	(object Event "Inativar()"
 						quid       	"54AC8AE300C3")
 					    sendEvent  	(object sendEvent
 						quid       	"54AC8AE300C5"))
@@ -36257,7 +36257,7 @@
 					    supplier_quidu 	"54AC8AC50294"
 					    client     	"Logical View::Design Model::Use-Case Realizations::sucControlarProduto::Diagrama de Estado Produto::Inativo"
 					    client_quidu 	"54AC8AD8007B"
-					    Event      	(object Event "Inativar()"
+					    Event      	(object Event "Ativar()"
 						quid       	"54AC8AE801C3")
 					    sendEvent  	(object sendEvent
 						quid       	"54AC8AE801C5"))
@@ -36285,7 +36285,7 @@
 					    zoom       	100
 					    max_height 	28350
 					    max_width  	21600
-					    origin_x   	0
+					    origin_x   	234
 					    origin_y   	0
 					    items      	(list diagram_item_list
 						(object StateView "StartState" "Inicio()" @1330
@@ -36431,47 +36431,6 @@
 							default_color 	TRUE)
 						    label      	(object SegLabel @1338
 							Parent_View 	@1337
-							location   	(1273, 525)
-							font       	(object Font
-							    size       	9
-							    face       	"Arial"
-							    bold       	FALSE
-							    italics    	FALSE
-							    underline  	FALSE
-							    strike     	FALSE
-							    color      	0
-							    default_color 	TRUE)
-							anchor_loc 	1
-							nlines     	1
-							max_width  	450
-							justify    	0
-							label      	"Ativar()"
-							pctDist    	1.201569
-							height     	94
-							orientation 	0)
-						    stereotype 	TRUE
-						    line_color 	3342489
-						    quidu      	"54AC8AE300C2"
-						    client     	@1334
-						    supplier   	@1335
-						    vertices   	(list Points
-							(1118, 467)
-							(1183, 560)
-							(1115, 637))
-						    line_style 	0
-						    x_offset   	FALSE)
-						(object TransView "" @1339
-						    font       	(object Font
-							size       	9
-							face       	"Arial"
-							bold       	FALSE
-							italics    	FALSE
-							underline  	FALSE
-							strike     	FALSE
-							color      	0
-							default_color 	TRUE)
-						    label      	(object SegLabel @1340
-							Parent_View 	@1339
 							location   	(841, 526)
 							font       	(object Font
 							    size       	9
@@ -36486,7 +36445,7 @@
 							nlines     	1
 							max_width  	450
 							justify    	0
-							label      	"Inativar()"
+							label      	"Ativar()"
 							pctDist    	1.598832
 							height     	74
 							orientation 	0)
@@ -36501,7 +36460,7 @@
 							(1010, 467))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object TransView "" @1341
+						(object TransView "" @1339
 						    stereotype 	TRUE
 						    line_color 	3342489
 						    quidu      	"54AC8AF00389"
@@ -36510,6 +36469,47 @@
 						    vertices   	(list Points
 							(1206, 640)
 							(1734, 417))
+						    line_style 	0
+						    x_offset   	FALSE)
+						(object TransView "" @1340
+						    font       	(object Font
+							size       	9
+							face       	"Arial"
+							bold       	FALSE
+							italics    	FALSE
+							underline  	FALSE
+							strike     	FALSE
+							color      	0
+							default_color 	TRUE)
+						    label      	(object SegLabel @1341
+							Parent_View 	@1340
+							location   	(1270, 554)
+							font       	(object Font
+							    size       	9
+							    face       	"Arial"
+							    bold       	FALSE
+							    italics    	FALSE
+							    underline  	FALSE
+							    strike     	FALSE
+							    color      	0
+							    default_color 	TRUE)
+							anchor_loc 	1
+							nlines     	1
+							max_width  	450
+							justify    	0
+							label      	"Inativar()"
+							pctDist    	1.285128
+							height     	97
+							orientation 	1)
+						    stereotype 	TRUE
+						    line_color 	3342489
+						    quidu      	"54AC8AE300C2"
+						    client     	@1334
+						    supplier   	@1335
+						    vertices   	(list Points
+							(1109, 467)
+							(1169, 572)
+							(1113, 636))
 						    line_style 	0
 						    x_offset   	FALSE)
 						(object TransView "" @1342
