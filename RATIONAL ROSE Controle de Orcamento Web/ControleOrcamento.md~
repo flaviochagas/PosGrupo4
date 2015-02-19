@@ -279,41 +279,37 @@
 				quid       	"5414A3A401E4"
 				stereotype 	"Business Worker"
 				language   	"Java")
-			    (object Class "eOrçamento"
+			    (object Class "beOrçamento"
 				attributes 	(list Attribute_Set
 				    (object Attribute
 					tool       	"Java"
 					name       	"cg_style"
 					value      	"Default_EJB"))
 				quid       	"5414A4700157"
-				stereotype 	"entity"
+				stereotype 	"Business Entity"
 				language   	"Java")
-			    (object Class "eProdutoOuServiço"
-				attributes 	(list Attribute_Set
-				    (object Attribute
-					tool       	"Java"
-					name       	"cg_style"
-					value      	"Default_EJB"))
+			    (object Class "beProdutoOuServiço"
+				attributes 	(list Attribute_Set)
 				quid       	"5414A476000F"
-				stereotype 	"entity"
+				stereotype 	"Business Entity"
 				language   	"Java")
-			    (object Class "eFichaCliente"
+			    (object Class "beFichaCliente"
 				attributes 	(list Attribute_Set
 				    (object Attribute
 					tool       	"Java"
 					name       	"cg_style"
 					value      	"Default_EJB"))
 				quid       	"5414A4780157"
-				stereotype 	"entity"
+				stereotype 	"Business Entity"
 				language   	"Java")
-			    (object Class "eConvenio"
+			    (object Class "beConvenio"
 				attributes 	(list Attribute_Set
 				    (object Attribute
 					tool       	"Java"
 					name       	"cg_style"
 					value      	"Default_EJB"))
 				quid       	"5414A47B0280"
-				stereotype 	"entity"
+				stereotype 	"Business Entity"
 				language   	"Java")
 			    (object Class "bwSupervisor"
 				attributes 	(list Attribute_Set
@@ -351,7 +347,7 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$7"
 					quid       	"5414A55500AB"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eOrçamento"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beOrçamento"
 					quidu      	"5414A4700157"
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$8"
@@ -363,7 +359,7 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$10"
 					quid       	"5414A60302EE"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eProdutoOuServiço"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beProdutoOuServiço"
 					quidu      	"5414A476000F"
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$11"
@@ -375,7 +371,7 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$13"
 					quid       	"5414A6050119"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eFichaCliente"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beFichaCliente"
 					quidu      	"5414A4780157"
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$14"
@@ -387,7 +383,7 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$16"
 					quid       	"5414A6060280"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eConvenio"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beConvenio"
 					quidu      	"5414A47B0280"
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$17"
@@ -399,13 +395,13 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$19"
 					quid       	"5439598F03B8"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eFichaCliente"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beFichaCliente"
 					quidu      	"5414A4780157"
 					client_cardinality 	(value cardinality "1")
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$20"
 					quid       	"5439598F03BA"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eOrçamento"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beOrçamento"
 					quidu      	"5414A4700157"
 					client_cardinality 	(value cardinality "n")
 					is_navigable 	TRUE)))
@@ -414,13 +410,13 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$22"
 					quid       	"54395998008B"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eConvenio"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beConvenio"
 					quidu      	"5414A47B0280"
 					client_cardinality 	(value cardinality "0..1")
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$23"
 					quid       	"54395998008D"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eFichaCliente"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beFichaCliente"
 					quidu      	"5414A4780157"
 					client_cardinality 	(value cardinality "n")
 					is_navigable 	TRUE)))
@@ -429,13 +425,13 @@
 				roles      	(list role_list
 				    (object Role "$UNNAMED$25"
 					quid       	"5439599B02ED"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eProdutoOuServiço"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beProdutoOuServiço"
 					quidu      	"5414A476000F"
 					client_cardinality 	(value cardinality "1..n")
 					is_navigable 	TRUE)
 				    (object Role "$UNNAMED$26"
 					quid       	"5439599B02EF"
-					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eOrçamento"
+					supplier   	"Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beOrçamento"
 					quidu      	"5414A4700157"
 					client_cardinality 	(value cardinality "n")
 					is_navigable 	TRUE)))
@@ -1657,7 +1653,7 @@
 					SuppressOperation 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
-					location   	(208, 640)
+					location   	(256, 672)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -1669,7 +1665,7 @@
 					    default_color 	TRUE)
 					label      	(object ItemLabel
 					    Parent_View 	@51
-					    location   	(207, 848)
+					    location   	(255, 880)
 					    anchor_loc 	1
 					    nlines     	2
 					    max_width  	567
@@ -1683,10 +1679,13 @@
 					width      	202
 					annotation 	8
 					autoResize 	TRUE)
-				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eConvenio" @52
+				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beConvenio" @52
 					ShowCompartmentStereotypes 	TRUE
+					SuppressAttribute 	TRUE
+					SuppressOperation 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
+					ShowOperationSignature 	TRUE
 					location   	(1936, 656)
 					font       	(object Font
 					    size       	9
@@ -1699,18 +1698,17 @@
 					    default_color 	TRUE)
 					label      	(object ItemLabel
 					    Parent_View 	@52
-					    location   	(1936, 812)
+					    location   	(1936, 830)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	426
+					    max_width  	773
 					    justify    	0
-					    label      	"eConvenio")
-					icon       	"entity"
+					    label      	"beConvenio")
+					icon       	"Business Entity"
 					icon_style 	"Icon"
 					line_color 	3342489
 					fill_color 	13434879
 					quidu      	"5414A47B0280"
-					height     	154
 					annotation 	8
 					autoResize 	TRUE)
 				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::baSistemaDeVendas" @53
@@ -1746,7 +1744,7 @@
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$15" @54
-					location   	(1936, 508)
+					location   	(1936, 500)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -1762,31 +1760,31 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$16" @55
 						Parent_View 	@54
-						location   	(32, 300)
+						location   	(32, 292)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A6060280"
 						client     	@54
 						supplier   	@52
 						vertices   	(list Points
-						    (1936, 508)
-						    (1936, 579))
+						    (1936, 500)
+						    (1936, 562))
 						line_style 	3
-						origin_attachment 	(1936, 508)
-						terminal_attachment 	(1936, 579))
+						origin_attachment 	(1936, 500)
+						terminal_attachment 	(1936, 562))
 					    (object RoleView "$UNNAMED$17" @56
 						Parent_View 	@54
-						location   	(32, 300)
+						location   	(32, 292)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A6060282"
 						client     	@54
 						supplier   	@53
 						vertices   	(list Points
-						    (1936, 508)
+						    (1936, 500)
 						    (1936, 438))
 						line_style 	3
-						origin_attachment 	(1936, 508)
+						origin_attachment 	(1936, 500)
 						terminal_attachment 	(1936, 438))))
 				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::bwVendedor" @57
 					ShowCompartmentStereotypes 	TRUE
@@ -1822,7 +1820,7 @@
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$3" @58
-					location   	(424, 659)
+					location   	(448, 694)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -1838,36 +1836,39 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$4" @59
 						Parent_View 	@58
-						location   	(216, 19)
+						location   	(240, 54)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A5500290"
 						client     	@58
 						supplier   	@57
 						vertices   	(list Points
-						    (424, 659)
-						    (543, 659))
+						    (448, 694)
+						    (543, 694))
 						line_style 	3
-						origin_attachment 	(424, 659)
-						terminal_attachment 	(543, 659))
+						origin_attachment 	(448, 694)
+						terminal_attachment 	(543, 694))
 					    (object RoleView "$UNNAMED$5" @60
 						Parent_View 	@58
-						location   	(216, 19)
+						location   	(240, 54)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A5500292"
 						client     	@58
 						supplier   	@51
 						vertices   	(list Points
-						    (424, 659)
-						    (306, 659))
+						    (448, 694)
+						    (354, 694))
 						line_style 	3
-						origin_attachment 	(424, 659)
-						terminal_attachment 	(306, 659))))
-				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eFichaCliente" @61
+						origin_attachment 	(448, 694)
+						terminal_attachment 	(354, 694))))
+				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beFichaCliente" @61
 					ShowCompartmentStereotypes 	TRUE
+					SuppressAttribute 	TRUE
+					SuppressOperation 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
+					ShowOperationSignature 	TRUE
 					location   	(1536, 656)
 					font       	(object Font
 					    size       	9
@@ -1880,18 +1881,17 @@
 					    default_color 	TRUE)
 					label      	(object ItemLabel
 					    Parent_View 	@61
-					    location   	(1536, 812)
+					    location   	(1536, 830)
 					    anchor_loc 	1
-					    nlines     	1
-					    max_width  	426
+					    nlines     	2
+					    max_width  	767
 					    justify    	0
-					    label      	"eFichaCliente")
-					icon       	"entity"
+					    label      	"beFichaCliente")
+					icon       	"Business Entity"
 					icon_style 	"Icon"
 					line_color 	3342489
 					fill_color 	13434879
 					quidu      	"5414A4780157"
-					height     	154
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$21" @62
@@ -1919,11 +1919,11 @@
 						supplier   	@52
 						vertices   	(list Points
 						    (1735, 656)
-						    (1860, 656))
+						    (1806, 656))
 						line_style 	0
 						label      	(object SegLabel @64
 						    Parent_View 	@63
-						    location   	(1847, 710)
+						    location   	(1798, 710)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -1961,11 +1961,11 @@
 						supplier   	@61
 						vertices   	(list Points
 						    (1735, 656)
-						    (1610, 656))
+						    (1664, 656))
 						line_style 	0
 						label      	(object SegLabel @66
 						    Parent_View 	@65
-						    location   	(1623, 710)
+						    location   	(1672, 710)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -1985,7 +1985,7 @@
 						    height     	54
 						    orientation 	0))))
 				    (object AssociationViewNew "$UNNAMED$12" @67
-					location   	(1613, 429)
+					location   	(1596, 416)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -2001,37 +2001,40 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$13" @68
 						Parent_View 	@67
-						location   	(-291, 221)
+						location   	(-308, 208)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A6050119"
 						client     	@67
 						supplier   	@61
 						vertices   	(list Points
-						    (1613, 429)
-						    (1536, 429)
-						    (1536, 579))
+						    (1596, 416)
+						    (1536, 416)
+						    (1536, 561))
 						line_style 	3
-						origin_attachment 	(1613, 429)
-						terminal_attachment 	(1536, 579))
+						origin_attachment 	(1596, 416)
+						terminal_attachment 	(1536, 561))
 					    (object RoleView "$UNNAMED$14" @69
 						Parent_View 	@67
-						location   	(-291, 221)
+						location   	(-308, 208)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A605011B"
 						client     	@67
 						supplier   	@53
 						vertices   	(list Points
-						    (1613, 429)
-						    (1812, 429))
+						    (1596, 416)
+						    (1714, 416))
 						line_style 	3
-						origin_attachment 	(1613, 429)
-						terminal_attachment 	(1812, 429))))
-				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eProdutoOuServiço" @70
+						origin_attachment 	(1596, 416)
+						terminal_attachment 	(1714, 416))))
+				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beProdutoOuServiço" @70
 					ShowCompartmentStereotypes 	TRUE
+					SuppressAttribute 	TRUE
+					SuppressOperation 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
+					ShowOperationSignature 	TRUE
 					location   	(1136, 208)
 					font       	(object Font
 					    size       	9
@@ -2044,22 +2047,21 @@
 					    default_color 	TRUE)
 					label      	(object ItemLabel
 					    Parent_View 	@70
-					    location   	(1136, 364)
+					    location   	(1136, 382)
 					    anchor_loc 	1
-					    nlines     	1
-					    max_width  	426
+					    nlines     	2
+					    max_width  	754
 					    justify    	0
-					    label      	"eProdutoOuServiço")
-					icon       	"entity"
+					    label      	"beProdutoOuServiço")
+					icon       	"Business Entity"
 					icon_style 	"Icon"
 					line_color 	3342489
 					fill_color 	13434879
 					quidu      	"5414A476000F"
-					height     	154
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$9" @71
-					location   	(1506, 209)
+					location   	(1533, 209)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -2075,36 +2077,39 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$10" @72
 						Parent_View 	@71
-						location   	(-398, 1)
+						location   	(-371, 1)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A60302EE"
 						client     	@71
 						supplier   	@70
 						vertices   	(list Points
-						    (1506, 209)
-						    (1210, 209))
+						    (1533, 209)
+						    (1264, 209))
 						line_style 	3
-						origin_attachment 	(1506, 209)
-						terminal_attachment 	(1210, 209))
+						origin_attachment 	(1533, 209)
+						terminal_attachment 	(1264, 209))
 					    (object RoleView "$UNNAMED$11" @73
 						Parent_View 	@71
-						location   	(-398, 1)
+						location   	(-371, 1)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A60302F0"
 						client     	@71
 						supplier   	@53
 						vertices   	(list Points
-						    (1506, 209)
+						    (1533, 209)
 						    (1802, 209))
 						line_style 	3
-						origin_attachment 	(1506, 209)
+						origin_attachment 	(1533, 209)
 						terminal_attachment 	(1802, 209))))
-				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::eOrçamento" @74
+				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beOrçamento" @74
 					ShowCompartmentStereotypes 	TRUE
+					SuppressAttribute 	TRUE
+					SuppressOperation 	TRUE
 					IncludeAttribute 	TRUE
 					IncludeOperation 	TRUE
+					ShowOperationSignature 	TRUE
 					location   	(1136, 656)
 					font       	(object Font
 					    size       	9
@@ -2117,22 +2122,21 @@
 					    default_color 	TRUE)
 					label      	(object ItemLabel
 					    Parent_View 	@74
-					    location   	(1136, 812)
+					    location   	(1136, 830)
 					    anchor_loc 	1
-					    nlines     	1
-					    max_width  	426
+					    nlines     	2
+					    max_width  	760
 					    justify    	0
-					    label      	"eOrçamento")
-					icon       	"entity"
+					    label      	"beOrçamento")
+					icon       	"Business Entity"
 					icon_style 	"Icon"
 					line_color 	3342489
 					fill_color 	13434879
 					quidu      	"5414A4700157"
-					height     	154
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$6" @75
-					location   	(945, 656)
+					location   	(918, 656)
 					font       	(object Font
 					    size       	9
 					    face       	"Arial"
@@ -2148,31 +2152,31 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$7" @76
 						Parent_View 	@75
-						location   	(257, 0)
+						location   	(230, 0)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A55500AB"
 						client     	@75
 						supplier   	@74
 						vertices   	(list Points
-						    (945, 656)
-						    (1059, 656))
+						    (918, 656)
+						    (1006, 656))
 						line_style 	3
-						origin_attachment 	(945, 656)
-						terminal_attachment 	(1059, 656))
+						origin_attachment 	(918, 656)
+						terminal_attachment 	(1006, 656))
 					    (object RoleView "$UNNAMED$8" @77
 						Parent_View 	@75
-						location   	(257, 0)
+						location   	(230, 0)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"5414A55500AD"
 						client     	@75
 						supplier   	@57
 						vertices   	(list Points
-						    (945, 656)
+						    (918, 656)
 						    (831, 656))
 						line_style 	3
-						origin_attachment 	(945, 656)
+						origin_attachment 	(918, 656)
 						terminal_attachment 	(831, 656))))
 				    (object AssociationViewNew "$UNNAMED$18" @78
 					location   	(1335, 656)
@@ -2199,11 +2203,11 @@
 						supplier   	@61
 						vertices   	(list Points
 						    (1335, 656)
-						    (1460, 656))
+						    (1406, 656))
 						line_style 	0
 						label      	(object SegLabel @80
 						    Parent_View 	@79
-						    location   	(1447, 710)
+						    location   	(1398, 710)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -2241,11 +2245,11 @@
 						supplier   	@74
 						vertices   	(list Points
 						    (1335, 656)
-						    (1210, 656))
+						    (1264, 656))
 						line_style 	0
 						label      	(object SegLabel @82
 						    Parent_View 	@81
-						    location   	(1223, 710)
+						    location   	(1272, 710)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -2289,11 +2293,11 @@
 						supplier   	@70
 						vertices   	(list Points
 						    (1136, 483)
-						    (1136, 387))
+						    (1136, 406))
 						line_style 	0
 						label      	(object SegLabel @85
 						    Parent_View 	@84
-						    location   	(1190, 398)
+						    location   	(1190, 414)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -2331,11 +2335,11 @@
 						supplier   	@74
 						vertices   	(list Points
 						    (1136, 483)
-						    (1136, 580))
+						    (1136, 561))
 						line_style 	0
 						label      	(object SegLabel @87
 						    Parent_View 	@86
-						    location   	(1190, 569)
+						    location   	(1190, 553)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
