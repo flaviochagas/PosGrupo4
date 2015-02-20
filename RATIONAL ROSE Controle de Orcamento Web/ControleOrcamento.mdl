@@ -289,7 +289,11 @@
 				stereotype 	"Business Entity"
 				language   	"Java")
 			    (object Class "beProdutoOuServiço"
-				attributes 	(list Attribute_Set)
+				attributes 	(list Attribute_Set
+				    (object Attribute
+					tool       	"Java"
+					name       	"cg_style"
+					value      	"Default_EJB"))
 				quid       	"5414A476000F"
 				stereotype 	"Business Entity"
 				language   	"Java")
@@ -2024,10 +2028,10 @@
 						supplier   	@53
 						vertices   	(list Points
 						    (1596, 416)
-						    (1714, 416))
+						    (1812, 416))
 						line_style 	3
 						origin_attachment 	(1596, 416)
-						terminal_attachment 	(1714, 416))))
+						terminal_attachment 	(1812, 416))))
 				    (object ClassView "Class" "Use Case View::Business Use-Case Model::Workflow do Modelo de Negocio Controle de Orçamento Web::beProdutoOuServiço" @70
 					ShowCompartmentStereotypes 	TRUE
 					SuppressAttribute 	TRUE
@@ -2460,7 +2464,7 @@
 					supplier   	@89
 					vertices   	(list Points
 					    (701, 576)
-					    (904, 576))
+					    (903, 576))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$2" @93
 					Parent_View 	@91
@@ -2578,7 +2582,7 @@
 					    location   	(784, 880)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	358
+					    max_width  	361
 					    justify    	0
 					    label      	"saCliente")
 					icon       	"Actor"
@@ -2606,7 +2610,7 @@
 					    location   	(1248, 864)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	358
+					    max_width  	361
 					    justify    	0
 					    label      	"saSistemaExterno")
 					icon       	"Actor"
@@ -2634,7 +2638,7 @@
 					    location   	(1008, 384)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	358
+					    max_width  	361
 					    justify    	0
 					    label      	"saAdministrador")
 					icon       	"Actor"
@@ -2662,7 +2666,7 @@
 					    location   	(272, 368)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	358
+					    max_width  	361
 					    justify    	0
 					    label      	"saVendedor")
 					icon       	"Actor"
@@ -2690,7 +2694,7 @@
 					    location   	(272, 880)
 					    anchor_loc 	1
 					    nlines     	2
-					    max_width  	358
+					    max_width  	361
 					    justify    	0
 					    label      	"saSupervisor")
 					icon       	"Actor"
@@ -2789,7 +2793,7 @@
 							    location   	(240, 944)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -2817,7 +2821,7 @@
 							    location   	(1344, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saCliente")
 							icon       	"Actor"
@@ -2845,7 +2849,7 @@
 							    location   	(240, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -2873,7 +2877,7 @@
 							    location   	(832, 1008)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSistemaExterno")
 							icon       	"Actor"
@@ -3164,7 +3168,7 @@
 							    location   	(320, 464)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -3301,7 +3305,7 @@
 							    location   	(352, 992)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3353,7 +3357,7 @@
 							    location   	(352, 416)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -3488,7 +3492,7 @@
 							    location   	(288, 880)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3540,7 +3544,7 @@
 							    location   	(288, 336)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -3699,7 +3703,7 @@
 							    location   	(240, 336)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3848,7 +3852,7 @@
 							    location   	(416, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -3997,7 +4001,7 @@
 							    location   	(352, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4122,7 +4126,7 @@
 							    location   	(304, 928)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4174,7 +4178,7 @@
 							    location   	(304, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -4333,7 +4337,7 @@
 							    location   	(400, 432)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -4465,7 +4469,7 @@
 							    location   	(336, 560)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -4614,7 +4618,7 @@
 							    location   	(304, 384)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4739,7 +4743,7 @@
 							    location   	(496, 880)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saSupervisor")
 							icon       	"Actor"
@@ -4791,7 +4795,7 @@
 							    location   	(496, 352)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saVendedor")
 							icon       	"Actor"
@@ -4949,7 +4953,7 @@
 							    location   	(336, 480)
 							    anchor_loc 	1
 							    nlines     	2
-							    max_width  	358
+							    max_width  	361
 							    justify    	0
 							    label      	"saAdministrador")
 							icon       	"Actor"
@@ -5184,7 +5188,7 @@
 				    location   	(2464, 1408)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	358
+				    max_width  	361
 				    justify    	0
 				    label      	"saSupervisor")
 				icon       	"Actor"
@@ -5240,7 +5244,7 @@
 					supplier   	@189
 					vertices   	(list Points
 					    (2192, 1248)
-					    (2405, 1248))
+					    (2403, 1248))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$57" @193
 					Parent_View 	@190
@@ -5332,7 +5336,7 @@
 					supplier   	@189
 					vertices   	(list Points
 					    (2146, 1538)
-					    (2377, 1327))
+					    (2405, 1298))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$60" @198
 					Parent_View 	@195
@@ -5375,7 +5379,7 @@
 					supplier   	@187
 					vertices   	(list Points
 					    (2146, 1538)
-					    (1915, 1749))
+					    (1911, 1750))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$62" @200
 				location   	(2472, 1590)
@@ -5424,7 +5428,7 @@
 					supplier   	@189
 					vertices   	(list Points
 					    (2472, 1590)
-					    (2468, 1431))
+					    (2466, 1431))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$63" @203
 					Parent_View 	@200
@@ -5467,7 +5471,7 @@
 					supplier   	@188
 					vertices   	(list Points
 					    (2472, 1590)
-					    (2476, 1749))
+					    (2476, 1750))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Diagrama de Caso de Uso::Casos de Uso::sucGerarRelatorioProdutos::sucGerarRelatorioProdutos" @205
 				location   	(3104, 1248)
@@ -5583,7 +5587,7 @@
 					supplier   	@205
 					vertices   	(list Points
 					    (2757, 1248)
-					    (2994, 1248))
+					    (2992, 1248))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Diagrama de Caso de Uso::Casos de Uso::sucControlarCliente::sucControlarCliente" @211
 				location   	(2464, 64)
@@ -5700,7 +5704,7 @@
 				    location   	(256, 976)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	358
+				    max_width  	361
 				    justify    	0
 				    label      	"saCliente")
 				icon       	"Actor"
@@ -5728,7 +5732,7 @@
 				    location   	(2464, 752)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	358
+				    max_width  	361
 				    justify    	0
 				    label      	"saVendedor")
 				icon       	"Actor"
@@ -5784,7 +5788,7 @@
 					supplier   	@216
 					vertices   	(list Points
 					    (2464, 391)
-					    (2464, 510))
+					    (2464, 512))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$51" @220
 					Parent_View 	@217
@@ -5827,7 +5831,7 @@
 					supplier   	@211
 					vertices   	(list Points
 					    (2464, 391)
-					    (2464, 273))
+					    (2464, 225))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$53" @222
 				location   	(2757, 670)
@@ -5876,7 +5880,7 @@
 					supplier   	@216
 					vertices   	(list Points
 					    (2757, 670)
-					    (2521, 606))
+					    (2521, 605))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$54" @225
 					Parent_View 	@222
@@ -5919,7 +5923,7 @@
 					supplier   	@212
 					vertices   	(list Points
 					    (2757, 670)
-					    (2994, 735))
+					    (2992, 731))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$65" @227
 				location   	(2190, 455)
@@ -5968,7 +5972,7 @@
 					supplier   	@216
 					vertices   	(list Points
 					    (2190, 455)
-					    (2405, 561))
+					    (2403, 560))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$66" @230
 					Parent_View 	@227
@@ -6011,7 +6015,7 @@
 					supplier   	@213
 					vertices   	(list Points
 					    (2190, 455)
-					    (1976, 350))
+					    (2064, 393))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$74" @232
 				location   	(2715, 469)
@@ -6103,7 +6107,7 @@
 					supplier   	@214
 					vertices   	(list Points
 					    (2715, 469)
-					    (2909, 378))
+					    (2847, 405))
 					line_style 	0)))
 			    (object InheritView "" @237
 				stereotype 	TRUE
@@ -6185,7 +6189,7 @@
 					supplier   	@216
 					vertices   	(list Points
 					    (1728, 592)
-					    (2404, 592))
+					    (2405, 592))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$30" @242
 					Parent_View 	@239
@@ -6277,7 +6281,7 @@
 					supplier   	@238
 					vertices   	(list Points
 					    (522, 726)
-					    (732, 659))
+					    (623, 691))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$36" @247
 					Parent_View 	@244
@@ -6320,7 +6324,7 @@
 					supplier   	@215
 					vertices   	(list Points
 					    (522, 726)
-					    (313, 793))
+					    (313, 795))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$38" @249
 				location   	(1728, 592)
@@ -6369,7 +6373,7 @@
 					supplier   	@216
 					vertices   	(list Points
 					    (1728, 592)
-					    (2404, 592))
+					    (2405, 592))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$39" @252
 					Parent_View 	@249
@@ -6489,7 +6493,7 @@
 					supplier   	@238
 					vertices   	(list Points
 					    (654, 481)
-					    (832, 548))
+					    (832, 547))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$42" @258
 					Parent_View 	@255
@@ -6532,7 +6536,7 @@
 					supplier   	@254
 					vertices   	(list Points
 					    (654, 481)
-					    (477, 415))
+					    (313, 355))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Diagrama de Caso de Uso::Casos de Uso::sucGerarRelatorioUsuarios::sucControlarUsuario" @260
 				location   	(1008, 1168)
@@ -6700,7 +6704,7 @@
 					supplier   	@260
 					vertices   	(list Points
 					    (612, 1168)
-					    (896, 1168))
+					    (898, 1168))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$68" @268
 				location   	(272, 1526)
@@ -6864,7 +6868,7 @@
 					supplier   	@262
 					vertices   	(list Points
 					    (603, 1437)
-					    (416, 1285))
+					    (329, 1215))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$78" @277
 					Parent_View 	@274
@@ -6907,7 +6911,7 @@
 					supplier   	@273
 					vertices   	(list Points
 					    (603, 1437)
-					    (791, 1590))
+					    (789, 1589))
 					line_style 	0))))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
@@ -12142,7 +12146,7 @@
 						    y_coord    	0
 						    Nested     	TRUE))
 					    (object InterObjView "$UNNAMED$158" @439
-						location   	(1808, 225)
+						location   	(1808, 224)
 						font       	(object Font
 						    size       	10
 						    face       	"Arial"
@@ -12154,7 +12158,7 @@
 						    default_color 	TRUE)
 						label      	(object ItemLabel
 						    Parent_View 	@439
-						    location   	(1808, 222)
+						    location   	(1808, 224)
 						    fill_color 	13434879
 						    anchor_loc 	1
 						    nlines     	2
@@ -12166,7 +12170,7 @@
 						fill_color 	13434879
 						quidu      	"546752F8010C"
 						width      	300
-						height     	4931
+						height     	4932
 						icon_height 	0
 						icon_width 	0
 						icon_y_offset 	0
@@ -13499,7 +13503,7 @@
 						    location   	(1344, 672)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -13528,7 +13532,7 @@
 						    location   	(431, 1724)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -13559,7 +13563,7 @@
 						    location   	(2191, 1692)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -17602,7 +17606,7 @@
 						    location   	(1056, 400)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -17631,7 +17635,7 @@
 						    location   	(1791, 1212)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -17662,7 +17666,7 @@
 						    location   	(319, 1212)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -21542,7 +21546,7 @@
 						    location   	(928, 336)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	361
+						    max_width  	365
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -21571,7 +21575,7 @@
 						    location   	(1727, 1420)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	705
+						    max_width  	708
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -21602,7 +21606,7 @@
 						    location   	(223, 1436)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	705
+						    max_width  	708
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -25720,7 +25724,7 @@
 						    location   	(1008, 368)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	365
+						    max_width  	369
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -25749,7 +25753,7 @@
 						    location   	(1583, 1420)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	708
+						    max_width  	711
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -25780,7 +25784,7 @@
 						    location   	(287, 1404)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	708
+						    max_width  	711
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -26106,13 +26110,13 @@
 						supplier   	@971
 						vertices   	(list Points
 						    (1065, 192)
-						    (1577, 192)
-						    (1577, 1188))
+						    (1574, 192)
+						    (1574, 1188))
 						line_style 	3
 						origin_attachment 	(1065, 192)
-						terminal_attachment 	(1577, 1188))
+						terminal_attachment 	(1574, 1188))
 					    (object MessView "" @989
-						location   	(1622, 433)
+						location   	(1619, 435)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26125,7 +26129,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @990
 						    Parent_View 	@989
-						    location   	(1336, 349)
+						    location   	(1333, 351)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26146,7 +26150,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @991
 						    Parent_View 	@989
-						    location   	(1336, 392)
+						    location   	(1333, 394)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26167,7 +26171,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @992
 						    Parent_View 	@989
-						    location   	(1336, 435)
+						    location   	(1333, 437)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26188,7 +26192,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @993
 						    Parent_View 	@989
-						    location   	(1336, 478)
+						    location   	(1333, 480)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26209,7 +26213,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @994
 						    Parent_View 	@989
-						    location   	(1336, 521)
+						    location   	(1333, 523)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26233,8 +26237,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1622, 373)
-						terminus   	(1622, 493))
+						origin     	(1619, 375)
+						terminus   	(1619, 495))
 					    (object LinkView "" @995
 						stereotype 	TRUE
 						line_color 	3342489
@@ -26471,14 +26475,14 @@
 						client     	@971
 						supplier   	@973
 						vertices   	(list Points
-						    (1573, 1338)
-						    (1573, 1714)
+						    (1571, 1338)
+						    (1571, 1714)
 						    (1066, 1714))
 						line_style 	3
-						origin_attachment 	(1573, 1338)
+						origin_attachment 	(1571, 1338)
 						terminal_attachment 	(1066, 1714))
 					    (object MessView "" @1008
-						location   	(1508, 1759)
+						location   	(1506, 1759)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26491,7 +26495,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1009
 						    Parent_View 	@1008
-						    location   	(1508, 1804)
+						    location   	(1506, 1804)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26512,7 +26516,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1010
 						    Parent_View 	@1008
-						    location   	(1508, 1847)
+						    location   	(1506, 1847)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26536,8 +26540,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1567, 1759)
-						terminus   	(1449, 1759))
+						origin     	(1565, 1759)
+						terminus   	(1447, 1759))
 					    (object LinkView "" @1011
 						stereotype 	TRUE
 						line_color 	3342489
@@ -26545,14 +26549,14 @@
 						client     	@972
 						supplier   	@973
 						vertices   	(list Points
-						    (273, 1322)
-						    (273, 1728)
+						    (271, 1322)
+						    (271, 1728)
 						    (886, 1728))
 						line_style 	3
-						origin_attachment 	(273, 1322)
+						origin_attachment 	(271, 1322)
 						terminal_attachment 	(886, 1728))
 					    (object MessView "" @1012
-						location   	(377, 1684)
+						location   	(376, 1684)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -26565,7 +26569,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1013
 						    Parent_View 	@1012
-						    location   	(526, 1553)
+						    location   	(525, 1553)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26586,7 +26590,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1014
 						    Parent_View 	@1012
-						    location   	(526, 1596)
+						    location   	(525, 1596)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26607,7 +26611,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1015
 						    Parent_View 	@1012
-						    location   	(526, 1639)
+						    location   	(525, 1639)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -26631,8 +26635,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(317, 1684)
-						terminus   	(437, 1684))))))
+						origin     	(316, 1684)
+						terminus   	(436, 1684))))))
 			    (object Class_Category "sucControlarUsuario"
 				quid       	"54396EF7000E"
 				exportControl 	"Public"
@@ -29925,7 +29929,7 @@
 						    location   	(992, 320)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -29954,7 +29958,7 @@
 						    location   	(1679, 1372)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -29985,7 +29989,7 @@
 						    location   	(319, 1372)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -30428,13 +30432,13 @@
 						supplier   	@1133
 						vertices   	(list Points
 						    (931, 160)
-						    (283, 160)
-						    (283, 1139))
+						    (286, 160)
+						    (286, 1139))
 						line_style 	3
 						origin_attachment 	(931, 160)
-						terminal_attachment 	(283, 1139))
+						terminal_attachment 	(286, 1139))
 					    (object MessView "" @1156
-						location   	(328, 325)
+						location   	(331, 326)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -30447,7 +30451,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1157
 						    Parent_View 	@1156
-						    location   	(541, 389)
+						    location   	(544, 390)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30468,7 +30472,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1158
 						    Parent_View 	@1156
-						    location   	(541, 432)
+						    location   	(544, 433)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30489,7 +30493,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1159
 						    Parent_View 	@1156
-						    location   	(541, 475)
+						    location   	(544, 476)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30513,8 +30517,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(328, 265)
-						terminus   	(328, 385))
+						origin     	(331, 266)
+						terminus   	(331, 386))
 					    (object LinkView "" @1160
 						stereotype 	TRUE
 						line_color 	3342489
@@ -30730,14 +30734,14 @@
 						client     	@1133
 						supplier   	@1134
 						vertices   	(list Points
-						    (309, 1290)
-						    (309, 1900)
+						    (307, 1290)
+						    (307, 1900)
 						    (940, 1900))
 						line_style 	3
-						origin_attachment 	(309, 1290)
+						origin_attachment 	(307, 1290)
 						terminal_attachment 	(940, 1900))
 					    (object MessView "" @1172
-						location   	(320, 1856)
+						location   	(319, 1856)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -30750,7 +30754,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1173
 						    Parent_View 	@1172
-						    location   	(575, 1726)
+						    location   	(574, 1726)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30771,7 +30775,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1174
 						    Parent_View 	@1172
-						    location   	(575, 1769)
+						    location   	(574, 1769)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30792,7 +30796,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1175
 						    Parent_View 	@1172
-						    location   	(575, 1812)
+						    location   	(574, 1812)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -30816,8 +30820,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(260, 1856)
-						terminus   	(380, 1856))))))
+						origin     	(259, 1856)
+						terminus   	(379, 1856))))))
 			    (object Class_Category "sucControlarVendedor"
 				quid       	"54396F0701C4"
 				exportControl 	"Public"
@@ -33801,7 +33805,7 @@
 						    location   	(976, 256)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -33830,7 +33834,7 @@
 						    location   	(1599, 1324)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -33861,7 +33865,7 @@
 						    location   	(414, 1321)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -34167,13 +34171,13 @@
 						supplier   	@1279
 						vertices   	(list Points
 						    (1033, 96)
-						    (1555, 96)
-						    (1555, 1092))
+						    (1558, 96)
+						    (1558, 1092))
 						line_style 	3
 						origin_attachment 	(1033, 96)
-						terminal_attachment 	(1555, 1092))
+						terminal_attachment 	(1558, 1092))
 					    (object MessView "" @1296
-						location   	(1600, 332)
+						location   	(1603, 331)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34186,7 +34190,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1297
 						    Parent_View 	@1296
-						    location   	(1333, 185)
+						    location   	(1336, 184)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34207,7 +34211,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1298
 						    Parent_View 	@1296
-						    location   	(1333, 228)
+						    location   	(1336, 227)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34228,7 +34232,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1299
 						    Parent_View 	@1296
-						    location   	(1333, 271)
+						    location   	(1336, 270)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34249,7 +34253,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1300
 						    Parent_View 	@1296
-						    location   	(1333, 314)
+						    location   	(1336, 313)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34270,7 +34274,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1301
 						    Parent_View 	@1296
-						    location   	(1333, 357)
+						    location   	(1336, 356)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34294,8 +34298,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1600, 272)
-						terminus   	(1600, 392))
+						origin     	(1603, 271)
+						terminus   	(1603, 391))
 					    (object LinkView "" @1302
 						stereotype 	TRUE
 						line_color 	3342489
@@ -34304,13 +34308,13 @@
 						supplier   	@1280
 						vertices   	(list Points
 						    (917, 96)
-						    (382, 96)
-						    (382, 1089))
+						    (383, 96)
+						    (383, 1089))
 						line_style 	3
 						origin_attachment 	(917, 96)
-						terminal_attachment 	(382, 1089))
+						terminal_attachment 	(383, 1089))
 					    (object MessView "" @1303
-						location   	(427, 325)
+						location   	(428, 326)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34323,7 +34327,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1304
 						    Parent_View 	@1303
-						    location   	(669, 389)
+						    location   	(670, 390)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34344,7 +34348,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1305
 						    Parent_View 	@1303
-						    location   	(669, 432)
+						    location   	(670, 433)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34365,7 +34369,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1306
 						    Parent_View 	@1303
-						    location   	(669, 475)
+						    location   	(670, 476)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34389,8 +34393,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(427, 265)
-						terminus   	(427, 385))
+						origin     	(428, 266)
+						terminus   	(428, 386))
 					    (object LinkView "" @1307
 						stereotype 	TRUE
 						line_color 	3342489
@@ -34532,11 +34536,11 @@
 						client     	@1279
 						supplier   	@1281
 						vertices   	(list Points
-						    (1587, 1242)
-						    (1587, 1635)
+						    (1584, 1242)
+						    (1584, 1635)
 						    (1149, 1635))
 						line_style 	3
-						origin_attachment 	(1587, 1242)
+						origin_attachment 	(1584, 1242)
 						terminal_attachment 	(1149, 1635))
 					    (object MessView "" @1315
 						location   	(1564, 1680)
@@ -34606,14 +34610,14 @@
 						client     	@1280
 						supplier   	@1281
 						vertices   	(list Points
-						    (400, 1239)
-						    (400, 1680)
+						    (398, 1239)
+						    (398, 1680)
 						    (931, 1680))
 						line_style 	3
-						origin_attachment 	(400, 1239)
+						origin_attachment 	(398, 1239)
 						terminal_attachment 	(931, 1680))
 					    (object MessView "" @1319
-						location   	(445, 1636)
+						location   	(444, 1636)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -34626,7 +34630,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1320
 						    Parent_View 	@1319
-						    location   	(684, 1497)
+						    location   	(683, 1497)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34647,7 +34651,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1321
 						    Parent_View 	@1319
-						    location   	(684, 1540)
+						    location   	(683, 1540)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34668,7 +34672,7 @@
 						    orientation 	0)
 						label      	(object SegLabel @1322
 						    Parent_View 	@1319
-						    location   	(684, 1583)
+						    location   	(683, 1583)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -34692,8 +34696,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(385, 1636)
-						terminus   	(505, 1636))))))
+						origin     	(384, 1636)
+						terminus   	(504, 1636))))))
 			    (object Class_Category "sucControlarProduto"
 				quid       	"54396F2F003D"
 				exportControl 	"Public"
@@ -36504,7 +36508,7 @@
 							label      	"Inativar()"
 							pctDist    	1.285128
 							height     	97
-							orientation 	1)
+							orientation 	0)
 						    stereotype 	TRUE
 						    line_color 	3342489
 						    quidu      	"54AC8AE300C2"
@@ -38182,7 +38186,7 @@
 						    location   	(992, 288)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -38211,7 +38215,7 @@
 						    location   	(335, 1484)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -38242,7 +38246,7 @@
 						    location   	(1551, 1468)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -38743,13 +38747,13 @@
 						supplier   	@1444
 						vertices   	(list Points
 						    (1049, 128)
-						    (1544, 128)
-						    (1544, 1236))
+						    (1541, 128)
+						    (1541, 1236))
 						line_style 	3
 						origin_attachment 	(1049, 128)
-						terminal_attachment 	(1544, 1236))
+						terminal_attachment 	(1541, 1236))
 					    (object MessView "" @1469
-						location   	(1589, 435)
+						location   	(1586, 435)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -38762,7 +38766,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1470
 						    Parent_View 	@1469
-						    location   	(1314, 423)
+						    location   	(1311, 423)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38783,7 +38787,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1471
 						    Parent_View 	@1469
-						    location   	(1314, 466)
+						    location   	(1311, 466)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38804,7 +38808,7 @@
 						    orientation 	1)
 						label      	(object SegLabel @1472
 						    Parent_View 	@1469
-						    location   	(1314, 509)
+						    location   	(1311, 509)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -38828,8 +38832,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1589, 375)
-						terminus   	(1589, 495))
+						origin     	(1586, 375)
+						terminus   	(1586, 495))
 					    (object LinkView "" @1473
 						stereotype 	TRUE
 						line_color 	3342489
@@ -39024,14 +39028,14 @@
 						client     	@1444
 						supplier   	@1446
 						vertices   	(list Points
-						    (1585, 1386)
-						    (1585, 1624)
+						    (1577, 1386)
+						    (1577, 1624)
 						    (2134, 1624))
 						line_style 	3
-						origin_attachment 	(1585, 1386)
+						origin_attachment 	(1577, 1386)
 						terminal_attachment 	(2134, 1624))
 					    (object MessView "" @1484
-						location   	(1741, 1580)
+						location   	(1736, 1580)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -39044,7 +39048,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1485
 						    Parent_View 	@1484
-						    location   	(1848, 1606)
+						    location   	(1843, 1606)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -39068,8 +39072,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1681, 1580)
-						terminus   	(1801, 1580))
+						origin     	(1676, 1580)
+						terminus   	(1796, 1580))
 					    (object LinkView "" @1486
 						stereotype 	TRUE
 						line_color 	3342489
@@ -40336,7 +40340,11 @@
 						uid        	0))
 					language   	"Java")
 				    (object Class "Orcamento"
-					attributes 	(list Attribute_Set)
+					attributes 	(list Attribute_Set
+					    (object Attribute
+						tool       	"Java"
+						name       	"cg_style"
+						value      	"Default_EJB"))
 					quid       	"543972130108"
 					operations 	(list Operations
 					    (object Operation "enviarOrcamento"
@@ -42096,24 +42104,6 @@
 							line_color 	3342489
 							fill_color 	13434879
 							quidu      	"543972130108"
-							compartment 	(object Compartment
-							    Parent_View 	@1522
-							    location   	(749, 540)
-							    font       	(object Font
-								size       	9
-								face       	"Arial"
-								bold       	FALSE
-								italics    	FALSE
-								underline  	FALSE
-								strike     	FALSE
-								color      	0
-								default_color 	TRUE)
-							    icon_style 	"Icon"
-							    fill_color 	16777215
-							    anchor     	2
-							    nlines     	15
-							    max_width  	0
-							    justify    	1)
 							width      	248
 							height     	114
 							annotation 	8
@@ -46036,7 +46026,7 @@
 						    location   	(1424, 704)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	373
+						    max_width  	377
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -46065,7 +46055,7 @@
 						    location   	(495, 1564)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	729
+						    max_width  	733
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -46096,7 +46086,7 @@
 						    location   	(2159, 1708)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	729
+						    max_width  	733
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -46246,7 +46236,7 @@
 						    location   	(2687, 412)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	729
+						    max_width  	733
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -49122,7 +49112,7 @@
 						    location   	(256, 944)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -49151,7 +49141,7 @@
 						    location   	(975, 940)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -49182,7 +49172,7 @@
 						    location   	(1855, 940)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -50784,7 +50774,7 @@
 						    location   	(176, 720)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -50813,7 +50803,7 @@
 						    location   	(1023, 716)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -50844,7 +50834,7 @@
 						    location   	(1743, 716)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -51125,14 +51115,14 @@
 						client     	@1921
 						supplier   	@1923
 						vertices   	(list Points
-						    (1029, 634)
-						    (1029, 1132)
+						    (1024, 634)
+						    (1024, 1132)
 						    (650, 1132))
 						line_style 	3
-						origin_attachment 	(1029, 634)
+						origin_attachment 	(1024, 634)
 						terminal_attachment 	(650, 1132))
 					    (object MessView "" @1937
-						location   	(1074, 1073)
+						location   	(1069, 1069)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -51145,7 +51135,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1938
 						    Parent_View 	@1937
-						    location   	(870, 1146)
+						    location   	(865, 1142)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -51169,8 +51159,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1074, 1013)
-						terminus   	(1074, 1133))
+						origin     	(1069, 1009)
+						terminus   	(1069, 1129))
 					    (object LinkView "" @1939
 						stereotype 	TRUE
 						line_color 	3342489
@@ -51230,14 +51220,14 @@
 						client     	@1922
 						supplier   	@1924
 						vertices   	(list Points
-						    (1758, 634)
-						    (1758, 1118)
+						    (1751, 634)
+						    (1751, 1118)
 						    (1534, 1118))
 						line_style 	3
-						origin_attachment 	(1758, 634)
+						origin_attachment 	(1751, 634)
 						terminal_attachment 	(1534, 1118))
 					    (object MessView "" @1943
-						location   	(1803, 988)
+						location   	(1796, 985)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -51250,7 +51240,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1944
 						    Parent_View 	@1943
-						    location   	(1766, 1155)
+						    location   	(1759, 1152)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -51274,8 +51264,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1803, 928)
-						terminus   	(1803, 1048))))))
+						origin     	(1796, 925)
+						terminus   	(1796, 1045))))))
 			    (object Class_Category "sucRelatorioCliente"
 				quid       	"54D2E86F01F7"
 				exportControl 	"Public"
@@ -52158,7 +52148,7 @@
 						    location   	(192, 612)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	358
+						    max_width  	361
 						    justify    	0
 						    label      	"")
 						icon       	"Actor"
@@ -52187,7 +52177,7 @@
 						    location   	(895, 604)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -52247,7 +52237,7 @@
 						    location   	(1631, 604)
 						    anchor_loc 	1
 						    nlines     	2
-						    max_width  	701
+						    max_width  	705
 						    justify    	0
 						    label      	"")
 						icon       	"boundary"
@@ -52500,14 +52490,14 @@
 						client     	@1975
 						supplier   	@1974
 						vertices   	(list Points
-						    (1619, 522)
-						    (1619, 1249)
+						    (1616, 522)
+						    (1616, 1249)
 						    (1082, 1249))
 						line_style 	3
-						origin_attachment 	(1619, 522)
+						origin_attachment 	(1616, 522)
 						terminal_attachment 	(1082, 1249))
 					    (object MessView "" @1990
-						location   	(1664, 1153)
+						location   	(1661, 1153)
 						font       	(object Font
 						    size       	9
 						    face       	"Arial"
@@ -52520,7 +52510,7 @@
 						line_color 	3342489
 						label      	(object SegLabel @1991
 						    Parent_View 	@1990
-						    location   	(1422, 1153)
+						    location   	(1419, 1153)
 						    font       	(object Font
 							size       	9
 							face       	"Arial"
@@ -52544,8 +52534,8 @@
 						height     	45
 						orientation 	0
 						dir        	1
-						origin     	(1664, 1093)
-						terminus   	(1664, 1213)))))))
+						origin     	(1661, 1093)
+						terminus   	(1661, 1213)))))))
 			logical_presentations 	(list unit_reference_list))
 		    (object Class_Category "Process View"
 			quid       	"35D227B103C0"
@@ -52926,24 +52916,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54398D5F01C4"
-				compartment 	(object Compartment
-				    Parent_View 	@2002
-				    location   	(974, 1286)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	3
-				    max_width  	418
-				    justify    	1)
 				width      	438
 				height     	222
 				annotation 	8
@@ -52974,24 +52946,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"5439718E01B4"
-				compartment 	(object Compartment
-				    Parent_View 	@2003
-				    location   	(1470, 1484)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	9
-				    max_width  	418
-				    justify    	1)
 				width      	438
 				height     	546
 				annotation 	8
@@ -53022,24 +52976,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"543971A7036A"
-				compartment 	(object Compartment
-				    Parent_View 	@2004
-				    location   	(2029, 1789)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	11
-				    max_width  	418
-				    justify    	1)
 				width      	440
 				height     	640
 				annotation 	8
@@ -53070,24 +53006,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54396EBE0147"
-				compartment 	(object Compartment
-				    Parent_View 	@2005
-				    location   	(96, 1710)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	13
-				    max_width  	476
-				    justify    	1)
 				width      	498
 				height     	734
 				annotation 	8
@@ -53118,24 +53036,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"543971F501E3"
-				compartment 	(object Compartment
-				    Parent_View 	@2006
-				    location   	(705, 1678)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	13
-				    max_width  	443
-				    justify    	1)
 				width      	464
 				height     	734
 				annotation 	8
@@ -53165,7 +53065,7 @@
 					supplier   	@2003
 					vertices   	(list Points
 					    (1310, 1789)
-					    (1460, 1731))
+					    (1460, 1729))
 					line_style 	0
 					label      	(object SegLabel @2009
 					    Parent_View 	@2008
@@ -53207,7 +53107,7 @@
 					supplier   	@2006
 					vertices   	(list Points
 					    (1310, 1789)
-					    (1160, 1847))
+					    (1160, 1845))
 					line_style 	0
 					label      	(object SegLabel @2011
 					    Parent_View 	@2010
@@ -53346,24 +53246,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54396D950399"
-				compartment 	(object Compartment
-				    Parent_View 	@2017
-				    location   	(75, 303)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	23
-				    max_width  	454
-				    justify    	1)
 				width      	476
 				height     	1204
 				annotation 	8
@@ -53393,7 +53275,7 @@
 					supplier   	@2005
 					vertices   	(list Points
 					    (322, 1501)
-					    (325, 1600))
+					    (324, 1600))
 					line_style 	0
 					label      	(object SegLabel @2020
 					    Parent_View 	@2019
@@ -53435,7 +53317,7 @@
 					supplier   	@2017
 					vertices   	(list Points
 					    (322, 1501)
-					    (320, 1402))
+					    (318, 1402))
 					line_style 	0
 					label      	(object SegLabel @2022
 					    Parent_View 	@2021
@@ -53484,24 +53366,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"543972130108"
-				compartment 	(object Compartment
-				    Parent_View 	@2023
-				    location   	(656, 431)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	15
-				    max_width  	541
-				    justify    	1)
 				width      	562
 				height     	828
 				annotation 	8
@@ -53621,7 +53485,7 @@
 					supplier   	@2023
 					vertices   	(list Points
 					    (594, 769)
-					    (646, 764))
+					    (928, 736))
 					line_style 	0
 					label      	(object SegLabel @2031
 					    Parent_View 	@2030
@@ -53663,7 +53527,7 @@
 					supplier   	@2017
 					vertices   	(list Points
 					    (594, 769)
-					    (542, 775))
+					    (304, 800))
 					line_style 	0
 					label      	(object SegLabel @2033
 					    Parent_View 	@2032
@@ -53712,24 +53576,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"543971E203B8"
-				compartment 	(object Compartment
-				    Parent_View 	@2034
-				    location   	(1499, 306)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	21
-				    max_width  	454
-				    justify    	1)
 				width      	476
 				height     	1110
 				annotation 	8
@@ -53801,7 +53647,7 @@
 					supplier   	@2034
 					vertices   	(list Points
 					    (1349, 744)
-					    (1489, 747))
+					    (1489, 746))
 					line_style 	0
 					label      	(object SegLabel @2039
 					    Parent_View 	@2038
@@ -53850,24 +53696,6 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"543971C50137"
-				compartment 	(object Compartment
-				    Parent_View 	@2040
-				    location   	(2217, 337)
-				    font       	(object Font
-					size       	9
-					face       	"Arial"
-					bold       	FALSE
-					italics    	FALSE
-					underline  	FALSE
-					strike     	FALSE
-					color      	0
-					default_color 	TRUE)
-				    icon_style 	"Icon"
-				    fill_color 	16777215
-				    anchor     	2
-				    nlines     	19
-				    max_width  	618
-				    justify    	1)
 				width      	640
 				height     	1016
 				annotation 	8
@@ -53897,7 +53725,7 @@
 					supplier   	@2034
 					vertices   	(list Points
 					    (2086, 744)
-					    (1966, 747))
+					    (1966, 746))
 					line_style 	0
 					label      	(object SegLabel @2043
 					    Parent_View 	@2042
@@ -53939,7 +53767,7 @@
 					supplier   	@2040
 					vertices   	(list Points
 					    (2086, 744)
-					    (2207, 742))
+					    (2207, 741))
 					line_style 	0
 					label      	(object SegLabel @2045
 					    Parent_View 	@2044
@@ -69458,11 +69286,7 @@
 		exportControl 	"Public"
 		logical_models 	(list unit_reference_list
 		    (object Class "OM_T_Orcamento"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"cg_style"
-				value      	"Default_EJB"))
+			attributes 	(list Attribute_Set)
 			quid       	"5483534103C6"
 			class_attributes 	(list class_attribute_list
 			    (object ClassAttribute "codigo"
@@ -69485,7 +69309,7 @@
 				quid       	"548353420047"
 				type       	"String"
 				exportControl 	"Public")
-			    (object ClassAttribute "stutus"
+			    (object ClassAttribute "status"
 				quid       	"54E6750B03E6"
 				type       	"String"))
 			language   	"Java"
@@ -69592,7 +69416,11 @@
 			language   	"Java"
 			persistence 	"Persistent")
 		    (object Class "OM_T_Vendedor"
-			attributes 	(list Attribute_Set)
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"Java"
+				name       	"cg_style"
+				value      	"Default_EJB"))
 			quid       	"548353420023"
 			class_attributes 	(list class_attribute_list
 			    (object ClassAttribute "codigo"
@@ -69940,7 +69768,7 @@
 				    fill_color 	16777215
 				    anchor     	2
 				    nlines     	3
-				    max_width  	341
+				    max_width  	343
 				    justify    	1)
 				width      	362
 				height     	226
@@ -69988,7 +69816,7 @@
 				    fill_color 	16777215
 				    anchor     	2
 				    nlines     	3
-				    max_width  	354
+				    max_width  	356
 				    justify    	1)
 				width      	374
 				height     	226
@@ -70918,7 +70746,7 @@
 				    fill_color 	16777215
 				    anchor     	2
 				    nlines     	6
-				    max_width  	376
+				    max_width  	378
 				    justify    	1)
 				width      	396
 				height     	370
@@ -71654,16 +71482,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2242
-				    location   	(319, 662)
+				    location   	(318, 662)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Cliente")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2242
-				    location   	(319, 592)
+				    location   	(318, 592)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71675,9 +71503,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC261D0358"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iCliente" @2243
 				location   	(1056, 640)
@@ -71713,7 +71541,7 @@
 				client     	@2242
 				supplier   	@2243
 				vertices   	(list Points
-				    (664, 640)
+				    (667, 640)
 				    (1028, 640))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Orçamento" "NotAModuleType" "NotAModulePart" @2245
@@ -71729,16 +71557,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2245
-				    location   	(2591, 422)
+				    location   	(2590, 422)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Orçamento")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2245
-				    location   	(2591, 352)
+				    location   	(2590, 352)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71750,9 +71578,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27AC02B0"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iOrçamento" @2246
 				location   	(2048, 400)
@@ -71788,7 +71616,7 @@
 				client     	@2245
 				supplier   	@2246
 				vertices   	(list Points
-				    (2402, 400)
+				    (2401, 400)
 				    (2074, 400))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Vendedor" "NotAModuleType" "NotAModulePart" @2248
@@ -71804,16 +71632,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2248
-				    location   	(319, 966)
+				    location   	(318, 966)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Vendedor")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2248
-				    location   	(319, 896)
+				    location   	(318, 896)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71825,9 +71653,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27E1034C"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iVendedor" @2249
 				location   	(1136, 944)
@@ -71863,7 +71691,7 @@
 				client     	@2248
 				supplier   	@2249
 				vertices   	(list Points
-				    (664, 944)
+				    (667, 944)
 				    (1107, 944))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Usuario" "NotAModuleType" "NotAModulePart" @2251
@@ -71879,16 +71707,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2251
-				    location   	(2671, 1350)
+				    location   	(2670, 1350)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Usuario")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2251
-				    location   	(2671, 1280)
+				    location   	(2670, 1280)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71900,9 +71728,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC27FA0247"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iUsuario" @2252
 				location   	(2000, 1328)
@@ -71938,7 +71766,7 @@
 				client     	@2251
 				supplier   	@2252
 				vertices   	(list Points
-				    (2482, 1328)
+				    (2481, 1328)
 				    (2026, 1328))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::ItemOrçamento" "NotAModuleType" "NotAModulePart" @2254
@@ -71954,16 +71782,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2254
-				    location   	(335, 1670)
+				    location   	(334, 1670)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"ItemOrçamento")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2254
-				    location   	(335, 1600)
+				    location   	(334, 1600)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -71975,9 +71803,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC281B0337"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iItem Orçamento" @2255
 				location   	(1184, 1632)
@@ -72013,7 +71841,7 @@
 				client     	@2254
 				supplier   	@2255
 				vertices   	(list Points
-				    (680, 1640)
+				    (683, 1640)
 				    (1155, 1631))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Convenio" "NotAModuleType" "NotAModulePart" @2257
@@ -72029,16 +71857,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2257
-				    location   	(2639, 998)
+				    location   	(2638, 998)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Convenio")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2257
-				    location   	(2639, 928)
+				    location   	(2638, 928)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -72050,9 +71878,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC284C0231"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iConvenio" @2258
 				location   	(2096, 976)
@@ -72088,7 +71916,7 @@
 				client     	@2257
 				supplier   	@2258
 				vertices   	(list Points
-				    (2450, 976)
+				    (2449, 976)
 				    (2122, 976))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Produto" "NotAModuleType" "NotAModulePart" @2260
@@ -72104,16 +71932,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2260
-				    location   	(287, 406)
+				    location   	(286, 406)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Produto")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2260
-				    location   	(287, 336)
+				    location   	(286, 336)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -72125,9 +71953,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC286601DD"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iProduto" @2261
 				location   	(1072, 384)
@@ -72169,16 +71997,16 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@2262
-				    location   	(2639, 710)
+				    location   	(2638, 710)
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	306
+				    max_width  	310
 				    justify    	1
 				    label      	"Grupo")
 				stereotype 	(object ItemLabel
 				    Parent_View 	@2262
-				    location   	(2639, 640)
+				    location   	(2638, 640)
 				    fill_color 	13434879
 				    anchor     	10
 				    anchor_loc 	3
@@ -72190,9 +72018,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC287D0284"
-				width      	552
+				width      	558
 				autoResize 	TRUE
-				width      	552
+				width      	558
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iGrupo" @2263
 				location   	(2128, 688)
@@ -72228,7 +72056,7 @@
 				client     	@2262
 				supplier   	@2263
 				vertices   	(list Points
-				    (2450, 688)
+				    (2449, 688)
 				    (2154, 688))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Marca" "NotAModuleType" "NotAModulePart" @2265
@@ -72248,7 +72076,7 @@
 				    fill_color 	13434879
 				    anchor_loc 	3
 				    nlines     	2
-				    max_width  	323
+				    max_width  	326
 				    justify    	1
 				    label      	"Marca")
 				stereotype 	(object ItemLabel
@@ -72265,9 +72093,9 @@
 				line_color 	3342489
 				fill_color 	13434879
 				quidu      	"54CC289202DA"
-				width      	582
+				width      	588
 				autoResize 	TRUE
-				width      	582
+				width      	588
 				height     	162)
 			    (object InterfaceView "Logical View::Design Model::iMarca" @2266
 				location   	(1184, 1248)
@@ -72303,7 +72131,7 @@
 				client     	@2265
 				supplier   	@2266
 				vertices   	(list Points
-				    (695, 1248)
+				    (697, 1248)
 				    (1155, 1248))
 				line_style 	0)
 			    (object ModView "Component View::Implementation Model::Orçamentos" "NotAModuleType" "NotAModulePart" @2268
@@ -72343,7 +72171,7 @@
 				client     	@2260
 				supplier   	@2261
 				vertices   	(list Points
-				    (632, 384)
+				    (635, 384)
 				    (1044, 384))
 				line_style 	0)
 			    (object ModVisView "" @2270
@@ -72689,7 +72517,7 @@
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes))
-	    (object Processor "Sistema de Vendas"
+	    (object Processor "$UNNAMED$287"
 		quid       	"54D547A40219"
 		stereotype 	"Sistema de Vendas"
 		connections 	(list connection_list
@@ -72713,13 +72541,14 @@
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes))
-	    (object Device "Dispositivos de acesso externo"
+	    (object Device "$UNNAMED$288"
 		quid       	"34DBBD47019A"
 		documentation 	"This device provides <enter a short description of the capability the device provides> for the system."
+		stereotype 	"Dispositivos de acesso externo"
 		connections 	(list connection_list
 		    (object Connection_Relationship
 			quid       	"54D55AA803BA"
-			label      	"Internet"
+			stereotype 	"Internet"
 			supplier   	"$UNNAMED$286"
 			quidu      	"34DBBD4300B4"
 			supplier_is_device 	FALSE))
@@ -72736,7 +72565,7 @@
 		    (object Connection_Relationship
 			quid       	"34DBBD4B008C"
 			stereotype 	"Internet"
-			supplier   	"Dispositivos de acesso externo"
+			supplier   	"$UNNAMED$288"
 			quidu      	"34DBBD47019A"
 			supplier_is_device 	TRUE))
 		characteristics 	"")
@@ -72757,9 +72586,9 @@
 		max_height 	28350
 		max_width  	21600
 		origin_x   	0
-		origin_y   	444
+		origin_y   	550
 		items      	(list diagram_item_list
-		    (object DeviceView "Dispositivos de acesso externo" @2280
+		    (object DeviceView "$UNNAMED$288" @2280
 			location   	(1792, 1744)
 			font       	(object Font
 			    size       	9
@@ -72772,18 +72601,26 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2280
-			    location   	(1619, 1638)
+			    location   	(1413, 1520)
 			    nlines     	2
-			    max_width  	275
+			    max_width  	687
 			    justify    	0
-			    label      	"Dispositivos de acesso externo")
+			    label      	"")
+			stereotype 	(object ItemLabel
+			    Parent_View 	@2280
+			    location   	(1413, 1473)
+			    anchor     	10
+			    nlines     	1
+			    max_width  	687
+			    justify    	0
+			    label      	"<<Dispositivos de acesso externo>>")
 			icon_style 	"Icon"
 			quidu      	"34DBBD47019A"
-			width      	350
-			height     	282
+			width      	762
+			height     	612
 			annotation 	0)
 		    (object NoteView @2281
-			location   	(816, 304)
+			location   	(1424, 128)
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72795,10 +72632,10 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2281
-			    location   	(38, 29)
+			    location   	(34, 25)
 			    fill_color 	13434879
-			    nlines     	11
-			    max_width  	1521
+			    nlines     	4
+			    max_width  	2745
 			    justify    	1
 			    label      	
 |This Diagram defines the typical physical network configurations, including those typically used by end users, as well as special configurations used for development and test.
@@ -72812,8 +72649,8 @@
 			    )
 			line_color 	3342489
 			fill_color 	13434879
-			width      	1581
-			height     	563)
+			width      	2805
+			height     	219)
 		    (object NoteView @2282
 			location   	(2224, 944)
 			font       	(object Font
@@ -72868,7 +72705,7 @@
 			width      	350
 			height     	282
 			annotation 	0)
-		    (object ProcessorView "Sistema de Vendas" @2284
+		    (object ProcessorView "$UNNAMED$287" @2284
 			location   	(481, 976)
 			font       	(object Font
 			    size       	9
@@ -72885,7 +72722,7 @@
 			    nlines     	2
 			    max_width  	462
 			    justify    	0
-			    label      	"Sistema de Vendas")
+			    label      	"")
 			stereotype 	(object ItemLabel
 			    Parent_View 	@2284
 			    location   	(214, 798)
@@ -72901,7 +72738,7 @@
 			height     	425
 			annotation 	0)
 		    (object NoteView @2285
-			location   	(2352, 1712)
+			location   	(1088, 1856)
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72913,7 +72750,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2285
-			    location   	(2089, 1606)
+			    location   	(825, 1750)
 			    fill_color 	13434879
 			    nlines     	4
 			    max_width  	491
@@ -72935,7 +72772,7 @@
 			    default_color 	TRUE)
 			stereotype 	(object SegLabel @2287
 			    Parent_View 	@2286
-			    location   	(1167, 869)
+			    location   	(1182, 916)
 			    font       	(object Font
 				size       	9
 				face       	"Arial"
@@ -72951,8 +72788,8 @@
 			    max_width  	450
 			    justify    	0
 			    label      	"<<web service>>"
-			    pctDist    	0.500000
-			    height     	108
+			    pctDist    	0.516129
+			    height     	60
 			    orientation 	0)
 			line_color 	3342489
 			quidu      	"54D54C530244"
@@ -72962,7 +72799,7 @@
 			    (718, 976)
 			    (1617, 976))
 			line_style 	0)
-		    (object ConnectionView "Internet" @2288
+		    (object ConnectionView "" @2288
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72974,19 +72811,39 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2288
-			    location   	(1792, 1367)
+			    location   	(1792, 1285)
 			    anchor_loc 	1
 			    nlines     	1
 			    max_width  	125
 			    justify    	0
-			    label      	"Internet")
-			stereotype 	TRUE
+			    label      	"")
+			stereotype 	(object SegLabel @2289
+			    Parent_View 	@2288
+			    location   	(1926, 1279)
+			    font       	(object Font
+				size       	9
+				face       	"Arial"
+				bold       	FALSE
+				italics    	FALSE
+				underline  	FALSE
+				strike     	FALSE
+				color      	0
+				default_color 	TRUE)
+			    anchor     	10
+			    anchor_loc 	1
+			    nlines     	1
+			    max_width  	450
+			    justify    	0
+			    label      	"<<Internet>>"
+			    pctDist    	0.517857
+			    height     	134
+			    orientation 	1)
 			line_color 	3342489
 			quidu      	"54D55AA803BA"
 			client     	@2280
 			supplier   	@2283
 			vertices   	(list Points
-			    (1792, 1618)
+			    (1792, 1453)
 			    (1792, 1117))
 			line_style 	0)))))
     properties 	(object Properties
