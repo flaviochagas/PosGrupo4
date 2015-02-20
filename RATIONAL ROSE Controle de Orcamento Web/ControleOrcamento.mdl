@@ -72498,7 +72498,13 @@
 			quid       	"54D546AC01E4"
 			supplier   	"Integração"
 			quidu      	"54D546BA0189"
-			supplier_is_device 	TRUE))
+			supplier_is_device 	TRUE)
+		    (object Connection_Relationship
+			quid       	"54E67ABA00FE"
+			stereotype 	"Internet"
+			supplier   	"$UNNAMED$287"
+			quidu      	"54E67AB003B5"
+			supplier_is_device 	FALSE))
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes
@@ -72517,7 +72523,7 @@
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes))
-	    (object Processor "$UNNAMED$287"
+	    (object Processor "$UNNAMED$288"
 		quid       	"54D547A40219"
 		stereotype 	"Sistema de Vendas"
 		connections 	(list connection_list
@@ -72541,7 +72547,13 @@
 		characteristics 	""
 		scheduling 	"Preemptive"
 		processes  	(list processes))
-	    (object Device "$UNNAMED$288"
+	    (object Processor "$UNNAMED$287"
+		quid       	"54E67AB003B5"
+		stereotype 	"Dispositivos de Acesso Externo"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Device "$UNNAMED$289"
 		quid       	"34DBBD47019A"
 		documentation 	"This device provides <enter a short description of the capability the device provides> for the system."
 		stereotype 	"Dispositivos de acesso externo"
@@ -72565,7 +72577,7 @@
 		    (object Connection_Relationship
 			quid       	"34DBBD4B008C"
 			stereotype 	"Internet"
-			supplier   	"$UNNAMED$288"
+			supplier   	"$UNNAMED$289"
 			quidu      	"34DBBD47019A"
 			supplier_is_device 	TRUE))
 		characteristics 	"")
@@ -72588,38 +72600,7 @@
 		origin_x   	0
 		origin_y   	550
 		items      	(list diagram_item_list
-		    (object DeviceView "$UNNAMED$288" @2280
-			location   	(1792, 1744)
-			font       	(object Font
-			    size       	9
-			    face       	"Arial"
-			    bold       	FALSE
-			    italics    	FALSE
-			    underline  	FALSE
-			    strike     	FALSE
-			    color      	0
-			    default_color 	TRUE)
-			label      	(object ItemLabel
-			    Parent_View 	@2280
-			    location   	(1413, 1520)
-			    nlines     	2
-			    max_width  	687
-			    justify    	0
-			    label      	"")
-			stereotype 	(object ItemLabel
-			    Parent_View 	@2280
-			    location   	(1413, 1473)
-			    anchor     	10
-			    nlines     	1
-			    max_width  	687
-			    justify    	0
-			    label      	"<<Dispositivos de acesso externo>>")
-			icon_style 	"Icon"
-			quidu      	"34DBBD47019A"
-			width      	762
-			height     	612
-			annotation 	0)
-		    (object NoteView @2281
+		    (object NoteView @2280
 			location   	(1424, 128)
 			font       	(object Font
 			    size       	9
@@ -72631,7 +72612,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2281
+			    Parent_View 	@2280
 			    location   	(34, 25)
 			    fill_color 	13434879
 			    nlines     	4
@@ -72651,7 +72632,7 @@
 			fill_color 	13434879
 			width      	2805
 			height     	219)
-		    (object NoteView @2282
+		    (object NoteView @2281
 			location   	(2224, 944)
 			font       	(object Font
 			    size       	9
@@ -72663,7 +72644,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2282
+			    Parent_View 	@2281
 			    location   	(2011, 831)
 			    fill_color 	13434879
 			    nlines     	4
@@ -72674,7 +72655,7 @@
 			fill_color 	13434879
 			width      	450
 			height     	238)
-		    (object ProcessorView "$UNNAMED$286" @2283
+		    (object ProcessorView "$UNNAMED$286" @2282
 			location   	(1792, 976)
 			font       	(object Font
 			    size       	9
@@ -72686,14 +72667,14 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2283
+			    Parent_View 	@2282
 			    location   	(1619, 917)
 			    nlines     	2
 			    max_width  	275
 			    justify    	0
 			    label      	"")
 			stereotype 	(object ItemLabel
-			    Parent_View 	@2283
+			    Parent_View 	@2282
 			    location   	(1619, 870)
 			    anchor     	10
 			    nlines     	1
@@ -72705,7 +72686,7 @@
 			width      	350
 			height     	282
 			annotation 	0)
-		    (object ProcessorView "$UNNAMED$287" @2284
+		    (object ProcessorView "$UNNAMED$288" @2283
 			location   	(481, 976)
 			font       	(object Font
 			    size       	9
@@ -72717,14 +72698,14 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2284
+			    Parent_View 	@2283
 			    location   	(214, 845)
 			    nlines     	2
 			    max_width  	462
 			    justify    	0
 			    label      	"")
 			stereotype 	(object ItemLabel
-			    Parent_View 	@2284
+			    Parent_View 	@2283
 			    location   	(214, 798)
 			    anchor     	10
 			    nlines     	1
@@ -72737,8 +72718,8 @@
 			width      	537
 			height     	425
 			annotation 	0)
-		    (object NoteView @2285
-			location   	(1088, 1856)
+		    (object NoteView @2284
+			location   	(1120, 1808)
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72749,8 +72730,8 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2285
-			    location   	(825, 1750)
+			    Parent_View 	@2284
+			    location   	(857, 1702)
 			    fill_color 	13434879
 			    nlines     	4
 			    max_width  	491
@@ -72760,7 +72741,7 @@
 			fill_color 	13434879
 			width      	551
 			height     	225)
-		    (object ConnectionView "" @2286
+		    (object ConnectionView "" @2285
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72770,8 +72751,8 @@
 			    strike     	FALSE
 			    color      	0
 			    default_color 	TRUE)
-			stereotype 	(object SegLabel @2287
-			    Parent_View 	@2286
+			stereotype 	(object SegLabel @2286
+			    Parent_View 	@2285
 			    location   	(1182, 916)
 			    font       	(object Font
 				size       	9
@@ -72793,13 +72774,14 @@
 			    orientation 	0)
 			line_color 	3342489
 			quidu      	"54D54C530244"
-			client     	@2284
-			supplier   	@2283
+			client     	@2283
+			supplier   	@2282
 			vertices   	(list Points
 			    (718, 976)
 			    (1617, 976))
 			line_style 	0)
-		    (object ConnectionView "" @2288
+		    (object ProcessorView "$UNNAMED$287" @2287
+			location   	(1793, 1728)
 			font       	(object Font
 			    size       	9
 			    face       	"Arial"
@@ -72810,16 +72792,39 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@2288
-			    location   	(1792, 1285)
-			    anchor_loc 	1
-			    nlines     	1
-			    max_width  	125
+			    Parent_View 	@2287
+			    location   	(1429, 1516)
+			    nlines     	2
+			    max_width  	656
 			    justify    	0
 			    label      	"")
+			stereotype 	(object ItemLabel
+			    Parent_View 	@2287
+			    location   	(1429, 1469)
+			    anchor     	10
+			    nlines     	1
+			    max_width  	656
+			    justify    	0
+			    label      	"<<Dispositivos de Acesso Externo>>")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"54E67AB003B5"
+			width      	731
+			height     	587
+			annotation 	0)
+		    (object ConnectionView "" @2288
+			font       	(object Font
+			    size       	9
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
 			stereotype 	(object SegLabel @2289
 			    Parent_View 	@2288
-			    location   	(1926, 1279)
+			    location   	(1900, 1283)
 			    font       	(object Font
 				size       	9
 				face       	"Arial"
@@ -72835,16 +72840,16 @@
 			    max_width  	450
 			    justify    	0
 			    label      	"<<Internet>>"
-			    pctDist    	0.517857
-			    height     	134
-			    orientation 	1)
+			    pctDist    	0.500000
+			    height     	108
+			    orientation 	0)
 			line_color 	3342489
-			quidu      	"54D55AA803BA"
-			client     	@2280
-			supplier   	@2283
+			quidu      	"54E67ABA00FE"
+			client     	@2282
+			supplier   	@2287
 			vertices   	(list Points
-			    (1792, 1453)
-			    (1792, 1117))
+			    (1792, 1117)
+			    (1793, 1450))
 			line_style 	0)))))
     properties 	(object Properties
 	attributes 	(list Attribute_Set
